@@ -1,0 +1,45 @@
+  Date: 03/16/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 08:06:40                               PR Options - Reconcile - Cashed Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+          Check Clearing Date: (r) 02012011 - 02282011
+
+Options:          # of copies: 1
+
+                                           Co#:   1   CONVERSE COUNTY
+
+    Emp Id      Employee Name                          Check#      Check Date      Type           Amount      Clearing Date
+ ---------      ------------------------------      ---------      ----------      ----      -----------      -------------
+      2004      Johnston, Kimberly J                000012405      01/31/2011      R             2680.28        02/28/2011
+      2013      Hollon, Susan L                     000012406      01/31/2011      R             2269.48        02/28/2011
+      3023      Hinton, Christopher E               000012407      01/31/2011      R             1749.80        02/28/2011
+      3028      Martin, Tiffany A                   000012408      01/31/2011      R             1696.51        02/28/2011
+      5090      Baum, Nathaniel R                   000012409      01/31/2011      R             2495.84        02/28/2011
+      5093      Stoneking, Wendy L                  000012410      01/31/2011      R             2713.71        02/28/2011
+      6017      Peasley, Frank S                    000012411      01/31/2011      R             2889.96        02/28/2011
+      7006      Leonard, Marty E                    000012412      01/31/2011      R             1863.12        02/28/2011
+     13087      Ormseth, Matthew A                  000012413      01/31/2011      R             4164.62        02/28/2011
+     13136      Williams, Dustin M                  000012415      01/31/2011      R             2848.52        02/28/2011
+     13137      Raymond-Dwyer, Corey                000012416      01/31/2011      R             2772.70        02/28/2011
+     13140      Carr, Amber D                       000012417      01/31/2011      R             2617.87        02/28/2011
+     13141      Knight, Willis M                    000012418      01/31/2011      R             2470.20        02/28/2011
+     14085      Smith, Daniel E                     000012419      01/31/2011      R              427.13        02/28/2011
+     14090      Bowen, James L                      000012420      01/31/2011      R             2439.40        02/28/2011
+      2014      Morvee, Janeen L                    000012421      01/31/2011      R             2286.85        02/28/2011
+     18022      Holler, Julia J                     000012422      01/31/2011      R              352.40        02/28/2011
+     18024      Howe, Scotty L                      000012423      01/31/2011      R             3204.83        02/28/2011
+     18026      Blanchard, Sherri L                 000012424      01/31/2011      R              141.52        02/28/2011
+     18037      Leetch, Pamela L                    000012425      01/31/2011      R             2972.80        02/28/2011
+     92006      Manning, Wendell W                  000012426      01/31/2011      R             1729.06        02/28/2011
+     92007      Manning, Faye J                     000012427      01/31/2011      R              337.38        02/28/2011
+     13115      Vialpando, Miles M                  000012428      02/02/2011      M              189.65        02/28/2011
+
+                                                                            Company Total:      47313.63  *
+
+
+                                                                     Total Regular Checks:      47123.98  *
+                                                                            Manual Checks:        189.65  *
+ 
+

@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Valuation of Agricultural Land</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--
+function showDes() { 
+  var i, visStr, args, theObj;
+  args = showDes.arguments;
+  for (i=0; i<(args.length-2); i+=3) {
+    visStr   = args[i+2];
+    if (navigator.appName == 'Netscape' && document.layers != null) {
+      theObj = eval(args[i]);
+      if (theObj) theObj.visibility = visStr;
+    } else if (document.all != null) {
+      if (visStr == 'show') visStr = 'visible';
+      if (visStr == 'hide') visStr = 'hidden';
+      theObj = eval(args[i+1]);
+      if (theObj) theObj.style.visibility = visStr;
+  } }
+}
+//-->
+
+</script>
+
+<style>
+.textbox	{
+	position:absolute;
+	top:10px;
+	left:10px;
+	width:90%;
+	font-family : arial, serif;
+	clip: auto;
+}
+.rightlink	{
+	position: absolute;
+	font-size: x-small;
+	font-family: tahoma, serif;
+	color: red;
+	right: 5px;
+	bottom: -30px;
+}
+.defaultdic	{
+	right: 5px;
+	position : absolute;
+	top: 60px;
+	color: red;
+	width: 15%;
+	font-size: x-small;
+	font-family: tahoma,serif;
+	visibility: visible;
+	Z-Index: 10;
+}
+.otherdic	{
+	right: 5px;
+	position: absolute;
+	top: 60px;
+	color: red;
+	width: 15%;
+	font-size: x-small;
+	font-family: tahoma,serif;
+	visibility: hidden;
+	z-index: 10;
+}
+</style>
+
+
+	<link rel=stylesheet type="text/css" href="treas.css">
+</head>
+
+<body>
+<span class="textbox">
+<h2><b>How is Agricultural Land Valued?</b></h2>
+<p>
+The Wyoming Department of Revenue issues a pamphlet on the valuation of Agricultural 
+property.  It is reprinted here:
+<p>
+<b>General Information</b>
+<p>
+Many states have laws regarding the preferential assessment of agricultural land. This means that
+farm and ranch land is assessed based on its capability to produce agricultural products.  In
+Wyoming, agricultural land is taxed based on the land's average productive capability under
+normal conditions.
+<p>
+<b>AgLand Definitions</b>
+<p>
+Common questions oftentimes arise in classifying agricultural lands. Wyoming uses the following
+points as guidelines:
+<ol type="1">
+	<li>The land must have been used or employed during the previous two years for agricultural purposes.
+	<li>The land must presently be used for agricultural or horticultural production for the purpose of obtaining monetary profit.
+	<li>The first two items apply unless the property is legally zoned for a different purpose.
+</ol>
+<b>Determining Productivity</b>
+<p>
+There are three required steps that must be satisfied to determine agricultural land productivity:
+<ol type="1">
+	<li><b>Ownership.</b> Identifying property ownership and classifying property types
+	(i.e., urban, suburban, agricultural land, etc.) is the responsibility of the County
+	Assessor's Office.  The proper identification of property ownership is essential to the
+	agricultural land evaluation process.  It determines the ownership boundaries and is the
+	beginning step in determining land use.
+	<li><b>Land Use.</b> There are three major categories of agricultural land.  They are 
+	irrigated, dry crop and range land.  Any, or all three, may be found in any given parcel
+	of land.  To properly value each agricultural parcel, these components must be correctly
+	identified.  This is accomplished through the use of various materials, including arial
+	photography.
+	<li><b>Productivity.</b> The following three classes of agricultural land are used in
+	identifying productivity:
+</ol>
+<blockquote>
+<b><i>Irrigated Crop Land</i></b><br>
+Tons of hay per acre is the productivity measurement used for valuing irrigated crop lands.  
+This "measurement" is determined by environmental factors that affect the soils' ability to
+produce.  These "factors," or limitations, are published in the Federal Government's Soil
+Survey and include items such as precipitation, length of growing season, slope, etc.
+<p>
+<b><i>Dry Crop Land</i></b><br>
+Bushels of winter wheat, per acre, is the productivity measurement used for valuing dry crop
+land.  As with irrigated crop land, this "measurement" is determined by environmental factors 
+that affect the soils' ability to produce.  These "factors," or limitations, are identical to
+those used with irrigated crop land.
+<p>
+<b><i>Range Land</i></b><br>
+Animal Unit Months or "AUMs", is the productivity measurement used for valuing range lands.  
+The term "AUM" is defined as the amount of forage required to sustain a 1,000 pound cow, 
+with or without a calf, for one month.
+</blockquote>
+<b>Determining Value</b>
+<p>
+Once ownership has been identified, land use has been established and the productivity
+capability has been tabulated for the parcel, a four step valuation process begins:
+<ol type="1">
+	<li><b>Determine Prices of Agricultural Products.</b> This information is derived from the Wyoming Agricultural Statistics Service's commodity price data.  This information, which consists of hay, wheat and grazing prices, are converted to a 5 year weighted average.
+	<li><b>Capitalization Rate Selected.</b> This rate is based on the Farm Credit Services of Omaha's Long Term Portfolio rates, which is also converted to a 5 year weighted average.
+	<li><b>Determine Net Income.</b> To determine the net income, the unit price of each of the 3 commodities is used.  Next, if applicable, the landlord share is determined, then the expenses and production losses are deducted.
+	<li><b>Capitalize Net Income.</b> The final step in this process is capitalizing the net income.  The following formula illustrates the process:
+Land Value per Acre = Yield Per Acre X Net Value Per Commodity Unit / (divided by) Capitalization Rate
+</ol>
+<b>Figuring the Tax Bill</b>
+<p>
+Wyoming is a fractional assessment state.  This means that the taxable value is based on a portion
+of the full value.  In Wyoming this fractional amount is 9.5%.  To get the assessed value
+multiply the value times 9.5%.
+<p>
+The assessed value is then multiplied by the appropriate tax district mill levy, to obtain
+the tax bill.
+<p>
+Visit the <a href="http://revenue.state.wy.us" target="_top">Department of Revenue Web Site</a>
+<p>
+</span>
+<div class="defaultdic" id="default"></div>
+<div class="otherdic" id="boe">
+</div>
+</body>
+</html>
+
+

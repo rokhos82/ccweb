@@ -1,0 +1,632 @@
+<table border="5" bordercolor="#555577" cellspacing="0" cellpadding="3" bgcolor="#000022" width="100%">
+	<tr>
+		<td>
+			<font face="Times New Roman" size="6" color="#FFFFFF">
+				CANDO Application
+			</font>
+			<br>
+			<font face="Times New Roman" size="4" color="#CACAE1">
+				From CANDOWyoming.com
+			</font>
+		</td>
+	</tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					Personal Information
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Date:
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--date-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Name:
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--name-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Email
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--email-->
+						</font>
+					</td>
+				</tr>
+			</table>
+			</table><br>
+			<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					Employment Information
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			
+			<table>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Position Applying for:
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--positionapplyingfor-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Date you can start:
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--startdate-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Salary Desired:
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--salarydesired-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Are you employed now?
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--employednow-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							If so, can we contact your current employer?
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--askemployer-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000" size="2" face="Arial">
+							Have you previously applied at CANDO?
+						</font>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--previouslyapplied-->
+						</font>
+					</td>
+				</tr>
+			</table>
+			</table><br>
+			<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					Education
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table>
+				<tr>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Name & Location of School:
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Number of Years Attended:
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Did You Graduate?
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Major & Degree (if applicable):
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--school1-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--yearsattended1-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--graduate1-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--major1-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--school2-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--yearsattended2-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--graduate2-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--major2-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--school3-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--yearsattended3-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--graduate3-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--major3-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--school4-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--yearsattended4-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--graduate4-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--major4-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--school5-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--yearsattended5-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--graduate5-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--major5-->
+						</font>
+					</td>
+				</tr>
+			</table>
+			</table><br>
+<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					General Information
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">List other job related qualifications and skills.  Include computer skills, skills with machines, typing, shorthand, etc.</font>
+			<br><br>
+			<font color="#000000" size="2" face="Arial">
+				Skills:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--skills-->
+			</font>
+			</table></table><br>
+<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					Military Sevice
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Dates of Sevice:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--datesofservice-->
+			</font><br>
+			<font color="#000000" size="2" face="Arial">
+				Branch of Service:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--branchofservice-->
+			</font>
+		</td>
+	</tr>
+			</table><br>
+<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					Special Accomodations
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">Do you need any special accomodations to work here?  Please describe:</font>
+			<br><br>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--accomodations-->
+			</font>
+			</table></table><br>
+			<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					Employment History
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Former Employers:
+			</font>
+			<table>
+				<tr>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Date: (M/Y)
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Name and Location of Employer:
+						</font>
+					</td>
+										<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Salary
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Position:
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Reason for leaving:
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--employmentdate1-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--employerlocation1-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--salary1-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--position1-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--reason1-->
+						</font>
+					</td>
+				</tr>
+								<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--employmentdate2-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--employerlocation2-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--salary2-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--position2-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--reason2-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--employmentdate3-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--employerlocation3-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--salary3-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--position3-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--reason3-->
+						</font>
+					</td>
+				</tr>
+
+			</table>
+			</table><br>
+			<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					References
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td><font color="#000000" size="2" face="Arial">Give the names of three persons not related to you, and whom you have known at least one year.</font>
+			<table>
+				<tr>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Name:
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Address and phone number:
+						</font>
+					</td>
+										<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Occupation:
+						</font>
+					</td>
+					<td width="250">
+						<font color="#000000" size="2" face="Arial">
+							Years Acquainted:
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--ref1-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--refaddress1-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--occupation1-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--acquainted1-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--ref2-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--refaddress2-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--occupation2-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--acquainted2-->
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--ref3-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--refaddress3-->
+						</font>
+					</td>
+										<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--occupation3-->
+						</font>
+					</td>
+					<td>
+						<font color="#FF0000" size="2" face="Arial">
+							<!--acquainted3-->
+						</font>
+					</td>
+				</tr>
+				
+			</table>
+			</table><br>
+<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					Emergency Contact
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td><font color="#000000" size="2" face="Arial">In case of emergency, notify:</font><br><br>
+			<font color="#000000" size="2" face="Arial">
+				Name:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--emergencyname-->
+			</font><br>
+			<font color="#000000" size="2" face="Arial">
+				Address:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--emergencyaddress-->
+			</font><br>
+<font color="#000000" size="2" face="Arial">
+				Phone Number:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--emergencynumber-->
+			</font>		</td>
+	</tr>
+			</table>
+			<br>
+			<font color="#000000" size="2" face="Arial">
+              <p>By pressing the below submit button, I certify that the
+                facts contained in this application are true and complete to
+                the best
+                of my knowledge and understand that, if employed, falsified statements
+                on this application shall be grounds for dismissal.</p>
+              <p>I authorize investigation of all statements contained herein
+                and the references listed above to give you any and all inforation
+                concering my previous employment and any pertinent information
+                they may have, personal or otherwise, and release all parties
+                from all liability for any damage that may result from furnishing
+                same to you.</p>
+              <p>I understand and agree that, if hired, I am subject to the CANDO
+                personnel policies and a six month probation period.</p>
+              <p>This form has been designed to strictly comply with state and
+                federal fair employment practice laws prohibiting employment
+                discrimination.  CANDO is an equal opportunity employer.  We
+                do not discriminate on the basis of race, religion, color, sex,
+                national origin, age or disability.</p>
+			</font>

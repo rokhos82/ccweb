@@ -1,0 +1,48 @@
+  Date: 11/08/2010                                        CONVERSE COUNTY                                         Page:      1
+  Time: 08:24:00                            PR Options - Reconcile - Outstanding Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+
+Options:        Report Format: 2                  Cutoff Date: 10/31/2010         # of copies: 1
+
+                                           Co#:   1
+
+    Emp Id      Employee Name                          Check#      Check Date   Clear Date      Type           Amount
+ ---------      ------------------------------      ---------      ----------   ----------      ----      -----------
+     14104      Roberts, Debra L                        11440      10/31/2008                   O                 .00
+     13133      Rogers, Zane A                          12237      10/06/2010                   M             1978.00
+      2004      Johnston, Kimberly J                    12238      10/29/2010                   O             2729.19
+      2013      Hollon, Susan L                         12239      10/29/2010                   O             2248.04
+      3023      Hinton, Christopher E                   12240      10/29/2010                   O             1794.37
+      3028      Martin, Tiffany A                       12241      10/29/2010                   O             1698.57
+      5090      Baum, Nathaniel R                       12242      10/29/2010                   O             1989.05
+      6005      Curtin, Charleen                        12243      10/29/2010                   O             2342.75
+      6017      Peasley, Frank S                        12244      10/29/2010                   O             2801.92
+      7006      Leonard, Marty E                        12245      10/29/2010                   O             1863.30
+     11017      Benavides, Misty D                      12246      10/29/2010                   O             1615.63
+     13068      Stoneking, Wendy L                      12247      10/29/2010                   O             2858.52
+     13087      Ormseth, Matthew A                      12248      10/29/2010                   O             3623.34
+     13115      Vialpando, Miles M                      12249      10/29/2010                   O             2540.07
+     13136      Williams, Dustin M                      12250      10/29/2010                   O             2292.58
+     13140      Carr, Amber D                           12251      10/29/2010                   O             2452.17
+     13141      Knight, Willis M                        12252      10/29/2010                   O             2127.93
+     14085      Smith, Daniel E                         12253      10/29/2010                   O             2084.21
+     14090      Bowen, James L                          12254      10/29/2010                   O             2257.70
+     14124      Parker, John S                          12255      10/29/2010                   O             1299.73
+      2014      Morvee, Janeen L                        12256      10/29/2010                   O             2261.21
+     18022      Holler, Julia J                         12257      10/29/2010                   O              632.81
+     18024      Howe, Scott L                           12258      10/29/2010                   O             3621.22
+     18026      Blanchard, Sherri L                     12259      10/29/2010                   O              138.52
+     18037      Leetch, Pamela L                        12260      10/29/2010                   O             2923.60
+     92006      Manning, Wendell W                      12261      10/29/2010                   O             1733.79
+     92007      Manning, Faye J                         12262      10/29/2010                   O              330.23
+
+                                                                                         Company Total:      54238.45  *
+
+
+                                                                                  Total Regular Checks:      52260.45  *
+                                                                                         Manual Checks:       1978.00  *
+ 
+

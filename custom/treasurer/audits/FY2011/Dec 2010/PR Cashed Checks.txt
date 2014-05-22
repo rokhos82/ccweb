@@ -1,0 +1,73 @@
+  Date: 01/12/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 08:55:20                               PR Options - Reconcile - Cashed Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+          Check Clearing Date: (r) 12012010 - 12312010
+
+Options:          # of copies: 1
+
+                                           Co#:   1   CONVERSE COUNTY
+
+    Emp Id      Employee Name                          Check#      Check Date      Type           Amount      Clearing Date
+ ---------      ------------------------------      ---------      ----------      ----      -----------      -------------
+      5013      Meyer, Nancy M                      000012280      11/12/2010      R             1732.10        12/31/2010
+      7006      Leonard, Marty E                    000012309      11/12/2010      R             1847.00        12/31/2010
+     14012      Moyer, James C                      000012330      11/12/2010      R             1640.85        12/31/2010
+     14016      McWilliams, Scott L                 000012331      11/12/2010      R             1640.85        12/31/2010
+     14090      Bowen, James L                      000012338      11/12/2010      R             1822.42        12/31/2010
+     14124      Parker, John S                      000012351      11/16/2010      M             1334.54        12/31/2010
+      2004      Johnston, Kimberly J                000012352      11/30/2010      R             2693.26        12/31/2010
+      2013      Hollon, Susan L                     000012353      11/30/2010      R             2248.04        12/31/2010
+      3023      Hinton, Christopher E               000012354      11/30/2010      R             1768.98        12/31/2010
+      3028      Martin, Tiffany A                   000012355      11/30/2010      R             1761.86        12/31/2010
+      5090      Baum, Nathaniel R                   000012356      11/30/2010      R             2602.73        12/31/2010
+      6005      Curtin, Charleen                    000012357      11/30/2010      R             3008.83        12/31/2010
+      6017      Peasley, Frank S                    000012358      11/30/2010      R             2801.92        12/31/2010
+      7006      Leonard, Marty E                    000012359      11/30/2010      R             1791.97        12/31/2010
+     11017      Benavides, Misty D                  000012360      11/30/2010      R             1715.63        12/31/2010
+     13068      Stoneking, Wendy L                  000012361      11/30/2010      R             3910.55        12/31/2010
+     13087      Ormseth, Matthew A                  000012362      11/30/2010      R             4145.41        12/31/2010
+     13115      Vialpando, Miles M                  000012363      11/30/2010      R             3132.93        12/31/2010
+     13136      Williams, Dustin M                  000012364      11/30/2010      R             3059.52        12/31/2010
+     13137      Raymond-Dwyer, Corey                000012365      11/30/2010      R             2773.24        12/31/2010
+     13140      Carr, Amber D                       000012366      11/30/2010      R             2443.22        12/31/2010
+     13141      Knight, Willis M                    000012367      11/30/2010      R             2771.17        12/31/2010
+     14090      Bowen, James L                      000012368      11/30/2010      R             2151.86        12/31/2010
+      2014      Morvee, Janeen L                    000012369      11/30/2010      R             2261.21        12/31/2010
+     18022      Holler, Julia J                     000012370      11/30/2010      R              279.67        12/31/2010
+     18024      Howe, Scott L                       000012371      11/30/2010      R             3621.22        12/31/2010
+     18026      Blanchard, Sherri L                 000012372      11/30/2010      R              138.52        12/31/2010
+     18037      Leetch, Pamela L                    000012373      11/30/2010      R             2923.60        12/31/2010
+     92006      Manning, Wendell W                  000012374      11/30/2010      R             1733.79        12/31/2010
+     92007      Manning, Faye J                     000012375      11/30/2010      R              330.23        12/31/2010
+      5013      Meyer, Nancy M                      000012376      12/20/2010      M             3525.05        12/31/2010
+     14126      Anderson, Warren A                  000012377      12/01/2010      M             2069.47        12/31/2010
+     14119      Nichols, Thomas R                   000012378      12/02/2010      M              221.64        12/31/2010
+      2013      Hollon, Susan L                     000012380      12/30/2010      R             2343.07        12/31/2010
+     11017      Benavides, Misty D                  000012386      12/30/2010      R             1715.63        12/31/2010
+     13068      Stoneking, Wendy L                  000012387      12/30/2010      R             3072.00        12/31/2010
+     13087      Ormseth, Matthew A                  000012388      12/30/2010      R             3406.80        12/31/2010
+     13115      Vialpando, Miles M                  000012389      12/30/2010      R             2715.01        12/31/2010
+     18022      Holler, Julia J                     000012396      12/30/2010      R              567.13        12/31/2010
+     18037      Leetch, Pamela L                    000012399      12/30/2010      R             2923.60        12/31/2010
+     92006      Manning, Wendell W                  000012400      12/30/2010      R             1733.79        12/31/2010
+     92007      Manning, Faye J                     000012401      12/30/2010      R              330.23        12/31/2010
+
+                                                                            Company Total:      90710.54  *
+
+
+  Date: 01/12/2011                                        CONVERSE COUNTY                                         Page:      2
+  Time: 08:55:20                               PR Options - Reconcile - Cashed Checks
+  Oper: jss
+
+                                           Co#:   1   CONVERSE COUNTY
+
+    Emp Id      Employee Name                          Check#      Check Date      Type           Amount      Clearing Date
+ ---------      ------------------------------      ---------      ----------      ----      -----------      -------------
+
+                                                                     Total Regular Checks:      83559.84  *
+                                                                            Manual Checks:       7150.70  *
+ 
+

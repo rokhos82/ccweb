@@ -1,0 +1,49 @@
+  Date: 07/06/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 11:30:14                               PR Options - Reconcile - Cashed Checks
+  Oper: kkh
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+          Check Clearing Date: (r) 06012011 - 06302011
+
+Options:          # of copies: 1
+
+                                           Co#:   1   CONVERSE COUNTY
+
+    Emp Id      Employee Name                          Check#      Check Date      Type           Amount      Clearing Date
+ ---------      ------------------------------      ---------      ----------      ----      -----------      -------------
+     10032      Blackburn, Sheri A                  000012484      04/29/2011      R              290.59        06/30/2011
+      2004      Johnston, Kimberly J                000012502      05/31/2011      R             2856.10        06/30/2011
+      2013      Hollon, Susan L                     000012503      05/31/2011      R             2318.20        06/30/2011
+      2026      Williams, Shayla R                  000012504      05/31/2011      R              222.04        06/30/2011
+      3023      Hinton, Christopher E               000012505      05/31/2011      R             1692.03        06/30/2011
+      3028      Martin, Tiffany A                   000012506      05/31/2011      R             1604.91        06/30/2011
+      5090      Baum, Nathaniel R                   000012507      05/31/2011      R             2346.62        06/30/2011
+      5093      Stoneking, Wendy L                  000012508      05/31/2011      R             2548.79        06/30/2011
+      5094      Gross, Bryan P                      000012509      05/31/2011      R             3176.29        06/30/2011
+      6017      Peasley, Frank S                    000012510      05/31/2011      R             2889.96        06/30/2011
+      7006      Leonard, Marty E                    000012511      05/31/2011      R             1765.40        06/30/2011
+     10038      Wallis, Judy D                      000012512      05/31/2011      R               83.02        06/30/2011
+     11018      Carr, Patricia S                    000012513      05/31/2011      R             1825.72        06/30/2011
+     13087      Ormseth, Matthew A                  000012514      05/31/2011      R             3441.61        06/30/2011
+     13136      Williams, Dustin M                  000012515      05/31/2011      R             2486.06        06/30/2011
+     13140      Carr, Amber D                       000012516      05/31/2011      R             2633.47        06/30/2011
+     13141      Knight, Willis M                    000012517      05/31/2011      R             2294.23        06/30/2011
+     14090      Bowen, James L                      000012518      05/31/2011      R             2147.15        06/30/2011
+     14123      Briggs, Chad R                      000012519      05/31/2011      R              194.63        06/30/2011
+     14128      Kahler, Jeffrey R                   000012520      05/31/2011      R              188.70        06/30/2011
+      2014      Morvee, Janeen L                    000012521      05/31/2011      R             2286.78        06/30/2011
+     18022      Holler, Julia J                     000012522      05/31/2011      R              336.17        06/30/2011
+     18024      Howe, Scotty L                      000012523      05/31/2011      R             3671.36        06/30/2011
+     18026      Blanchard, Sherri L                 000012524      05/31/2011      R              141.52        06/30/2011
+     18037      Leetch, Pamela L                    000012525      05/31/2011      R             3002.84        06/30/2011
+     92006      Manning, Wendell W                  000012526      05/31/2011      R             1729.06        06/30/2011
+     92007      Manning, Faye J                     000012527      05/31/2011      R              337.38        06/30/2011
+
+                                                                            Company Total:      48510.63  *
+
+
+                                                                     Total Regular Checks:      48510.63  *
+                                                                            Manual Checks:           .00  *
+ 
+

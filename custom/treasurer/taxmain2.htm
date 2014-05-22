@@ -1,0 +1,231 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Converse County Treasurer Main Tax Page</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--
+function showDes() { 
+  var i, visStr, args, theObj;
+  args = showDes.arguments;
+  for (i=0; i<(args.length-2); i+=3) {
+    visStr   = args[i+2];
+    if (navigator.appName == 'Netscape' && document.layers != null) {
+      theObj = eval(args[i]);
+      if (theObj) theObj.visibility = visStr;
+    } else if (document.all != null) {
+      if (visStr == 'show') visStr = 'visible';
+      if (visStr == 'hide') visStr = 'hidden';
+      theObj = eval(args[i+1]);
+      if (theObj) theObj.style.visibility = visStr;
+  } }
+}
+//-->
+
+
+<!--
+var bV=parseInt(navigator.appVersion);
+NS4=(document.layers) ? true : false;
+IE4=((document.all)&&(bV>=4))?true:false;
+
+   ver4 = (NS4 || IE4) ? 1 : 0;
+    function donothing() { return }
+
+if (document.images) {
+
+    arImLoad = new Array (
+        "HomeButUp",
+	"HomeButOver",
+	"TaxButUp",
+        "TaxButOver",
+	"VehButUp",
+	"VehButOver",
+	"StButUp",
+	"StButOver",
+	"WyButUp",
+	"WyButOver",
+	"TaxHomeBut",
+	"TaxMillBut"
+    );
+
+    arImList = new Array ();
+    for (counter in arImLoad) {
+        arImList[counter] = new Image();
+        arImList[counter].src = arImLoad[counter] + ".jpg";
+    }
+}
+
+    function rollOver(imName,over) {
+	if (!document.images) {return};
+        whichIm = document.images[imName];
+        if (over) { whichIm.src = imName + "over.jpg" }
+             else { whichIm.src = imName + "up.jpg" }
+    }
+//--!>
+</script>
+
+<style>
+
+	.buttonbox  {
+  	position : absolute;
+  	top : 0px;
+  	left : 20px;
+  	font-size : large;
+  	font-family : tahoma, serif;
+   	clip : auto;
+
+  }
+	.textbox	{
+	position:absolute;
+	top:60px;
+	left:18%;
+	width:65%;
+	font-family : arial, serif;
+	clip: auto;
+}
+
+	.sidebox	{
+	position: absolute;
+	top:60px;
+	right:5px;
+	width:15%;
+	font-size: x-small;
+	font-family: arial,serif;
+	border : 1px solid red;
+	padding-left: 2px;
+}
+	.navbox		{
+	position: absolute;
+	top: 60px;
+	width: 15%;
+	font-size: x-small;
+	font-family: tahoma, serif;
+	border: 1px solid lime;
+	padding-left: 2px;
+}
+</style>
+
+
+	<link rel=stylesheet type="text/css" href="treas.css">
+</head>
+
+<body>
+<span class = "navbox">
+<b><center>Links from Here</b></center><p>
+<a href="iframe.html">duh</a><p>
+<a href="taxexample.htm">Taxation Example</a><p>
+<a href="taxprotest.htm">What if I don't agree with the fair market value?</a><p>
+
+
+</span>
+
+<span class = "buttonbox">
+<table cellspacing=0 cellpadding=0 cellborder=0>
+<tr>
+	<td><a href="main.htm"
+		onMouseOver = "rollOver('HomeBut',true)"
+		onMouseOut = "rollOver('HomeBut',false)">
+		<img name="HomeBut" src="HomeButUp.jpg" border=0 height=30 width=60></a></td>
+   	<td><img name="TaxBut" SRC="TaxButOverP.jpg" border=0></td>
+	<td><a href="vehframe.htm"
+		onMouseOver = "rollOver('VehBut',true)"
+		onMouseOut = "rollOver('VehBut',false)">
+		<img name="VehBut" src="VehButUp.jpg" border="0" height=30 width=60></a></td>
+	
+	<td><a href="http://www.state.wy.us/state/welcome.html"
+		onMouseOver = "rollOver('WyBut',true)"
+		onMouseOut = "rollOver('WyBut',false)" target="_top">
+	<img name="WyBut" src="WyButUp.jpg" border=0 height=30 width=60></a></td>
+	<td><a href="taxmill.htm"
+		onMouseOver = "rollOver('TaxMillBut',true)"
+		onMouseOut = "rollOver('TaxMillBut',false)">
+		<img name="TaxMillBut" src="TaxMillButUp.jpg" border=0 width=103 height=30></a></td>
+	<td><a href="taxsale.htm"
+		onMouseOver = "rollOver('TaxSaleBut',true)"
+		onMouseOut = "rollOver('TaxSaleBut',false)">
+		<img name="TaxSaleBut" src="TaxSaleButUp.jpg" border=0 width=60 height=30></a></td>
+	<td><a href="taxpmt.htm"
+		onMouseOver = "rollOver('TaxPmtBut',true)"
+		onMouseOut = "rollOver('TaxPmtBut',false)">
+		<img name="TaxPmtBut" src="TaxPmtButUp.jpg" border = 0 width=60 height=30></a></td>
+	<td><a href="taxref.htm"
+		onMouseOver = "rollOver('TaxRefBut',true)"
+		onMouseOut = "rollOver('TaxRefBut',false)">
+		<img name="TaxRefBut" src="TaxRefButUp.jpg" border=0 width=60 height=30></a></td>
+
+</tr>
+
+</table>
+
+</span>
+
+
+<div id="content" style="LEFT: 0px; OVERFLOW: visible; POSITION: absolute; TOP: 0px; VISIBILITY: visible; WIDTH: 100%; Z-INDEX: 2">
+<table>
+<tr>
+<td>
+</tr></td></table>
+</div>
+
+<span class="textbox">
+<b><h2>Wyoming Property Taxes</h2></b>
+<p>
+Wyoming law delegates the task of collecting taxes to the county treasurer.  Although it's hard to
+believe, in a lot of ways the collecting of taxes is a good thing.  The taxes fund our hospital and
+schools, our health department, hospital and airport, and even help build our roads.<p>
+Unfortunately, the whole process of determining how much a taxpayer owes and where the money
+goes can be complicated.  Hopefully, the information provided here can help shed some light on
+the process.<p>
+<a name="whattax">A property tax in Wyoming </a>is an <A name="AdVal" onmouseout="showDes('document.layers[\'default\']','document.all[\'default\']','show','document.layers[\'advalorem\']','document.all[\'advalorem\']','hide')"
+	onmouseover ="showDes('document.layers[\'default\']','document.all[\'default\']','hide','document.layers[\'advalorem\']','document.all[\'advalorem\']','show')"><font color ="red"><b>AD VALOREM</font></b></a>
+tax.<p>
+In order to tax the property, a <A name="FairMarket" onmouseout="showDes('document.layers[\'default\']','document.all[\'default\']','show','document.layers[\'taxval\']','document.all[\'taxval\']','hide')"
+	onmouseover ="showDes('document.layers[\'default\']','document.all[\'default\']','hide','document.layers[\'taxval\']','document.all[\'taxval\']','show')"><font color ="red"><b>TAXABLE VALUE</font></b></a> must be determined.<p>
+First, the County Assessor assigns it a <A name="FairMarket" onmouseout="showDes('document.layers[\'default\']','document.all[\'default\']','show','document.layers[\'fair\']','document.all[\'fair\']','hide')"
+	onmouseover ="showDes('document.layers[\'default\']','document.all[\'default\']','hide','document.layers[\'fair\']','document.all[\'fair\']','show')"><font color ="red"><b>FAIR MARKET VALUE</font></b></a>.
+ The fair market value is multiplied by a TAXATION RATE to calculate the taxable value.
+The taxation rate depends on how the Assessor classifies the property.
+<p>
+Properties are classified in one of three areas; 
+<BLOCKQUOTE>
+Gross production of minerals and mine products;<br>
+Property used for industrial purposes; and<br>
+All other property, <A name="RealProp" onmouseout="showDes('document.layers[\'default\']','document.all[\'default\']','show','document.layers[\'real\']','document.all[\'real\']','hide')"
+	onmouseover ="showDes('document.layers[\'default\']','document.all[\'default\']','hide','document.layers[\'real\']','document.all[\'real\']','show')"><font color ="red"><b>REAL</a></b></font> and
+	<A name="PersProp" onmouseout="showDes('document.layers[\'default\']','document.all[\'default\']','show','document.layers[\'pers\']','document.all[\'pers\']','hide')"
+	onmouseover ="showDes('document.layers[\'default\']','document.all[\'default\']','hide','document.layers[\'pers\']','document.all[\'pers\']','show')"><font color ="red"><b>PERSONAL.</font></b></a></BLOCKQUOTE>
+Currently, the taxation rates are:
+<BLOCKQUOTE>
+100% for Gross production of minerals and mine products
+11.5% for industrial property<BR>
+ 9.5% for all other property
+</BLOCKQUOTE>
+
+</span>
+</div>
+
+<div id="default" style="Right: 5px; POSITION: absolute; TOP: 60px; VISIBILITY: visible; color: red; WIDTH: 15%; font-size: x-small; Z-INDEX: 10"> 	
+Place your mouse over any word in red and all-caps in order to see definitions of those words.
+</div>
+<div id="advalorem" style="Right: 5px; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; color: red; WIDTH: 15%; font-size: x-small; Z-INDEX: 10"> 	
+<b>Ad Valorem</b> means "on value," or that the taxes are based on the <u>value</u> of the property.
+</div>
+<div id="real" style="Right: 5px; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; color: red; WIDTH: 15%; font-size: x-small; Z-INDEX: 10"> 	
+<b>Real property</b> is land and property permanently attached to the land. Modulars on a foundation, houses and non-removable buildings, for example.
+</div>
+<div id="pers" style="Right: 5px; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; color: red; WIDTH: 15%; font-size: x-small; Z-INDEX: 10"> 	
+<b>Personal property</b> is movable property - mobile homes, construction equipment or mineral production, for example.
+</div>
+<div id="taxval" style="Right: 5px; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; color: red; WIDTH: 15%; font-size: x-small; Z-INDEX: 10"> 	
+<b>Taxable Value</b> is a percentage of the fair market value.  <p>Currently 100% of the value for mineral production,
+11.5% of the value for industrial property and 9.5% for real and personal property. </div>
+<div id="fair" style="Right: 5px; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; color: red; WIDTH: 15%; font-size: x-small; Z-INDEX: 10"> 	
+<b>Fair Market Value</b> is defined 
+</div>
+
+<p>
+</body>
+
+</html>

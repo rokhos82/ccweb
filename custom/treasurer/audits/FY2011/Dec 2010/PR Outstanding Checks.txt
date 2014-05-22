@@ -1,0 +1,37 @@
+  Date: 01/12/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 08:56:14                            PR Options - Reconcile - Outstanding Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+
+Options:        Report Format: 2                  Cutoff Date: 12/31/2010         # of copies: 1
+
+                                           Co#:   1
+
+    Emp Id      Employee Name                          Check#      Check Date   Clear Date      Type           Amount
+ ---------      ------------------------------      ---------      ----------   ----------      ----      -----------
+     14104      Roberts, Debra L                        11440      10/31/2008                   O                 .00
+     18003      Rankin, Linda K                         12347      11/12/2010                   O             1611.58
+      2004      Johnston, Kimberly J                    12379      12/30/2010                   O             2787.64
+      3023      Hinton, Christopher E                   12381      12/30/2010                   O             1764.96
+      3028      Martin, Tiffany A                       12382      12/30/2010                   O             1688.03
+      5090      Baum, Nathaniel R                       12383      12/30/2010                   O             2825.81
+      6017      Peasley, Frank S                        12384      12/30/2010                   O             2801.92
+      7006      Leonard, Marty E                        12385      12/30/2010                   O             1756.31
+     13136      Williams, Dustin M                      12390      12/30/2010                   O             2522.12
+     13137      Raymond-Dwyer, Corey                    12391      12/30/2010                   O             3069.90
+     13140      Carr, Amber D                           12392      12/30/2010                   O             2371.75
+     13141      Knight, Willis M                        12393      12/30/2010                   O             2619.29
+     14090      Bowen, James L                          12394      12/30/2010                   O             2161.47
+      2014      Morvee, Janeen L                        12395      12/30/2010                   O             2261.21
+     18024      Howe, Scott L                           12397      12/30/2010                   O             3621.22
+     18026      Blanchard, Sherri L                     12398      12/30/2010                   O              138.52
+
+                                                                                         Company Total:      34001.73  *
+
+
+                                                                                  Total Regular Checks:      34001.73  *
+                                                                                         Manual Checks:           .00  *
+ 
+

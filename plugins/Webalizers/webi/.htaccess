@@ -1,0 +1,4 @@
+AuthName "Webalizer Restricted Area"
+AuthType Basic
+AuthUserFile /usr/local/apache/.htpasswd
+require valid-user

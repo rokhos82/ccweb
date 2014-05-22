@@ -1,0 +1,46 @@
+  Date: 04/13/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 09:30:24                            PR Options - Reconcile - Outstanding Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+
+Options:        Report Format: 2                  Cutoff Date: 03/31/2011         # of copies: 1
+
+                                           Co#:   1
+
+    Emp Id      Employee Name                          Check#      Check Date   Clear Date      Type           Amount
+ ---------      ------------------------------      ---------      ----------   ----------      ----      -----------
+     14104      Roberts, Debra L                        11440      10/31/2008                   O                 .00
+      2004      Johnston, Kimberly J                    12451      03/31/2011                   O             2737.94
+      2013      Hollon, Susan L                         12452      03/31/2011                   O             2399.41
+      2026      Williams, Shayla R                      12453      03/31/2011                   O              219.94
+      3023      Hinton, Christopher E                   12454      03/31/2011                   O             1610.94
+      3028      Martin, Tiffany A                       12455      03/31/2011                   O             1601.30
+      5090      Baum, Nathaniel R                       12456      03/31/2011                   O             2226.24
+      5093      Stoneking, Wendy L                      12457      03/31/2011                   O             2761.32
+      6017      Peasley, Frank S                        12458      03/31/2011                   O             2889.96
+      7006      Leonard, Marty E                        12459      03/31/2011                   O             1765.40
+     10032      Blackburn, Sheri A                      12460      03/31/2011                   O              124.55
+     11018      Carr, Patricia S                        12461      03/31/2011                   O             1825.72
+     13087      Ormseth, Matthew A                      12462      03/31/2011                   O             3523.46
+     13136      Williams, Dustin M                      12463      03/31/2011                   O             2363.74
+     13140      Carr, Amber D                           12464      03/31/2011                   O             2104.63
+     13141      Knight, Willis M                        12465      03/31/2011                   O             2323.46
+     14085      Smith, Daniel E                         12466      03/31/2011                   O             1135.02
+     14090      Bowen, James L                          12467      03/31/2011                   O             2363.99
+      2014      Morvee, Janeen L                        12468      03/31/2011                   O             2286.85
+     18022      Holler, Julia J                         12469      03/31/2011                   O              421.98
+     18024      Howe, Scotty L                          12470      03/31/2011                   O             3671.36
+     18026      Blanchard, Sherri L                     12471      03/31/2011                   O              141.52
+     18037      Leetch, Pamela L                        12472      03/31/2011                   O             3002.84
+     92006      Manning, Wendell W                      12473      03/31/2011                   O             1729.06
+     92007      Manning, Faye J                         12474      03/31/2011                   O              337.38
+
+                                                                                         Company Total:      45568.01  *
+
+
+                                                                                  Total Regular Checks:      45568.01  *
+                                                                                         Manual Checks:           .00  *
+ 
+

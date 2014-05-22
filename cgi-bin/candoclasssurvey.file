@@ -1,0 +1,144 @@
+<table border="5" bordercolor="#555577" cellspacing="0" cellpadding="3" bgcolor="#000022" width="100%">
+	<tr>
+		<td>
+			<font face="Times New Roman" size="6" color="#FFFFFF">
+				CANDO Class Survey
+			</font>
+			<br>
+			<font face="Times New Roman" size="4" color="#CACAE1">
+				From CANDOWyoming.com
+			</font>
+		</td>
+	</tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="10" bordercolor="#666699" width="100%">
+	<tr>
+		<td bgcolor="#666699">
+			<strong>
+				<font color="#FFFFFF" size="2" face="Arial">
+					CANDO Class Survey
+				</font>
+			</strong>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Name:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--name-->
+			</font>
+			<br>
+			<br>
+			<font color="#000000" size="2" face="Arial">
+				Contact Information:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--contact_information-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Which time would you prefer to attend class? 
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--classtime-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				What day of the week works best for you?
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--classday-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Do you require a babysitter for day classes?
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--babysitter-->
+			</font>
+			<br>
+			<font color="#000000" size="2" face="Arial">
+				If yes, for how many children?
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--babysitter_howmanychildren-->
+			</font>
+			<br>
+			<font color="#000000" size="2" face="Arial">
+				What are their ages?
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--babysitter_childages-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				If a class is lengthy, which do you prefer: Day long classes or Shorter sessions over multiple days?
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--lengthyclasspreference-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Do you prefer time off between two separate classes?
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--breakbetween-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Please select classes that interest you:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--classinterest-->
+			</font>
+			<br>
+			<font color="#000000" size="2" face="Arial">
+				Computer Classes:
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--computerclassinterest-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				What is the biggest reason you do not or cannot attend classes?
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--noclassesesreason-->
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="#000000" size="2" face="Arial">
+				Please list classes you would like to see but are not shown above.
+			</font>
+			<font color="#FF0000" size="2" face="Arial">
+				<!--wantedclasses-->
+			</font>
+		</td>
+	</tr>
+</table>

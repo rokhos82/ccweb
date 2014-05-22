@@ -1,0 +1,111 @@
+text  {
+    	position : absolute;
+    	color : darkred;
+    	top : 1%;
+		height : 10%;
+		left : 0%;
+		width : 100%;
+    	font-family : Copperplate Gothic Bold, Arial Black;
+		font-size : large;
+		clip : auto;
+		text-align: center;
+}
+    
+highlight  {
+    	position : absolute;
+		color : red;
+		top : 1%;
+		height : 10%;
+    	left : 0%;
+		width : 100%;
+    	margin-left : 2px;
+    	margin-top : -2px;
+    	font-size : large;
+    	font-family : Copperplate Gothic Bold, Arial Black;
+		clip : auto;
+		text-align: center;
+}
+	
+contact	{
+		position : absolute;
+		right : 3%;
+		top : 3%;
+		height : 3%;
+		width : 5%;
+		font-size : x-small;
+		font-family : tahoma, serif;
+		clip : auto;
+		font-weight: bold;
+		color : black;
+		text-align : center;
+}
+	
+titlebox  {
+      	position : absolute;
+      	top : 1%;
+      	height : 10%;
+      	left : 0%;
+      	width : 100%;
+      	font-size : large;
+      	font-family : tahoma, serif;
+      	clip : auto;
+      	font-weight : bold;
+      	color : black;
+      	text-align : center;
+}
+      
+navmenu  {
+      	position : absolute;
+      	top : 20%;
+      	left : 0%;
+      	width : 15%;
+      	font-size : small;
+      	font-family : tahoma, serif;
+      	clip : auto;
+      	font-weight : bold;
+      	color : yellow;
+}
+      
+navtext  {
+      	font-size : x-small;
+      	font-family : tahoma, serif;
+      	align : center;
+      	font-weight : bold;
+      	color : yellow;
+      	background-color : Navy;
+}
+	  
+navtitle	{
+	  	font-size : x-small;
+		font-family : tahoma, serif;
+		align : center;
+		font-weight: bold;
+		color : white;
+		background-color : red;
+}
+	  
+navpage	{
+	  	font-size : x-small;
+		font-family : tahoma, serif;
+		align : center;
+		font-weight: bold;
+		color : Navy;
+		background-color : yellow;
+}
+		
+textbox	{
+	  	position : absolute;
+		top : 20%;
+		left : 18%;
+		font-size : x-small;
+		font-family : tahoma, serif;
+		color : black;
+}
+texttitle	{
+		font-size : medium;
+		font-weight : bold;
+		font-family : tahoma, serif;
+		color : black;
+		align : center;
+}
+      

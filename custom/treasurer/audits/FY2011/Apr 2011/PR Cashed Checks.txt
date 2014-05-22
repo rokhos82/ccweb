@@ -1,0 +1,47 @@
+  Date: 05/17/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 14:53:36                               PR Options - Reconcile - Cashed Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+          Check Clearing Date: (r) 04012011 - 04302011
+
+Options:          # of copies: 1
+
+                                           Co#:   1   CONVERSE COUNTY
+
+    Emp Id      Employee Name                          Check#      Check Date      Type           Amount      Clearing Date
+ ---------      ------------------------------      ---------      ----------      ----      -----------      -------------
+      2004      Johnston, Kimberly J                000012451      03/31/2011      R             2737.94        04/30/2011
+      2013      Hollon, Susan L                     000012452      03/31/2011      R             2399.41        04/30/2011
+      2026      Williams, Shayla R                  000012453      03/31/2011      R              219.94        04/30/2011
+      3023      Hinton, Christopher E               000012454      03/31/2011      R             1610.94        04/30/2011
+      3028      Martin, Tiffany A                   000012455      03/31/2011      R             1601.30        04/30/2011
+      5090      Baum, Nathaniel R                   000012456      03/31/2011      R             2226.24        04/30/2011
+      5093      Stoneking, Wendy L                  000012457      03/31/2011      R             2761.32        04/30/2011
+      6017      Peasley, Frank S                    000012458      03/31/2011      R             2889.96        04/30/2011
+      7006      Leonard, Marty E                    000012459      03/31/2011      R             1765.40        04/30/2011
+     10032      Blackburn, Sheri A                  000012460      03/31/2011      R              124.55        04/30/2011
+     11018      Carr, Patricia S                    000012461      03/31/2011      R             1825.72        04/30/2011
+     13087      Ormseth, Matthew A                  000012462      03/31/2011      R             3523.46        04/30/2011
+     13136      Williams, Dustin M                  000012463      03/31/2011      R             2363.74        04/30/2011
+     13140      Carr, Amber D                       000012464      03/31/2011      R             2104.63        04/30/2011
+     13141      Knight, Willis M                    000012465      03/31/2011      R             2323.46        04/30/2011
+     14085      Smith, Daniel E                     000012466      03/31/2011      R             1135.02        04/30/2011
+     14090      Bowen, James L                      000012467      03/31/2011      R             2363.99        04/30/2011
+      2014      Morvee, Janeen L                    000012468      03/31/2011      R             2286.85        04/30/2011
+     18022      Holler, Julia J                     000012469      03/31/2011      R              421.98        04/30/2011
+     18024      Howe, Scotty L                      000012470      03/31/2011      R             3671.36        04/30/2011
+     18026      Blanchard, Sherri L                 000012471      03/31/2011      R              141.52        04/30/2011
+     18037      Leetch, Pamela L                    000012472      03/31/2011      R             3002.84        04/30/2011
+     92006      Manning, Wendell W                  000012473      03/31/2011      R             1729.06        04/30/2011
+     92007      Manning, Faye J                     000012474      03/31/2011      R              337.38        04/30/2011
+     14122      Hoskinson, Paul J                   000012475      04/18/2011      M             1820.02        04/30/2011
+
+                                                                            Company Total:      47388.03  *
+
+
+                                                                     Total Regular Checks:      45568.01  *
+                                                                            Manual Checks:       1820.02  *
+ 
+

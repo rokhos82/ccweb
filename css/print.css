@@ -1,0 +1,10 @@
+body, html, #main, #mainhold, #maintd { height: auto; width: auto; }
+a {  color: #0e4378 !important; text-decoration: underline !important;  }
+#maindiv, #top, #top-menu, #top-last, #content, #bot-last, body { background: transparent; }
+.printheader { height: 130px; }
+.print { visibility: visible; display: block; }
+.noprint { visibility: hidden; display: none; }
+.emaillink,.filelink  { padding: 0; background: transparent !important; }
+.linklist { list-style-type: disc; }
+.linklist a, .listtop { padding: 0; background: transparent; }
+.badge  { visibility: hidden; display: none; }

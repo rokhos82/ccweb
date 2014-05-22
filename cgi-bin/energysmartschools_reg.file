@@ -1,0 +1,195 @@
+<font size="5" face="Times New Roman, Times, serif">
+	<strong>
+		<hr noshade color="#666666" width="700" align="left">
+		BASIC HIGH PERFORMANCE
+		<br>
+		DESIGN SCHOOL SEMINARS 2005–2006
+		<br>
+		<font color="#BB0000" size="4">
+			ONLINE REGISTRATION
+		</font>
+		<hr noshade color="#666666" width="700" align="left">
+	</strong>
+</font>
+<br>
+<table width="700" height="30" border="1" cellpadding="5" cellspacing="0" bordercolor="#666666" bgcolor="#EEEEEE">
+	<tr>
+		<td>
+			<p>
+				<font face="Arial" size="2">
+					If you are unable to join us for the workshop,
+					but would like to be kept apprised of our activities,
+					check here:
+				</font>
+				<font  face="Arial" size="2" color="red">
+					<b>
+						<!--keep_informed-->
+					</b>
+				</font>
+			</p>
+		</td>
+	</tr>
+</table>
+<br>
+
+<table cellpadding="7" cellspacing="0" border="1" bordercolor="#000000" bgcolor="#EEEEEE" width="700">
+	<tr valign="top">
+		<td colspan="2" valign="top" bordercolor="#CDCDCD">
+			<p>
+				<font  face="Arial" size="2" color="red">
+					<b>
+						<!--name-->
+					</b>
+				</font>
+			</p>
+		</td>
+		<td bordercolor="#CDCDCD">
+			<p align="left">
+				<font  face="Arial" size="2" color="red">
+					<b>
+						<!--company-->
+					</b>
+				</font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td height="40" colspan="2" bordercolor="#CDCDCD">
+			<p>
+				<strong>
+					<font face="Arial" size="2">
+						Name
+					</font>
+				</strong>
+			</p>
+		</td>
+		<td bordercolor="#CDCDCD">
+			<p>
+				<strong>
+					<font face="Arial" size="2">
+						Company or Organization
+					</font>
+				</strong>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td colspan="3" bordercolor="#CDCDCD">
+			<font  face="Arial" size="2" color="red">
+				<b>
+					<!--address-->
+				</b>
+			</font>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td height="40" colspan="3" bordercolor="#CDCDCD">
+			<p>
+				<strong>
+					<font  face="Arial" size="2">
+						Address
+					</font>
+				</strong>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td colspan="3" bordercolor="#CDCDCD">
+			<font  face="Arial" size="2" color="red">
+				<b>
+					<!--city_state_zip-->
+				</b>
+			</font>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td height="40" colspan="3" bordercolor="#CDCDCD">
+			<p>
+				<strong>
+					<font  face="Arial" size="2">
+						City, State, Zip
+					</font>
+				</strong>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td bordercolor="#CDCDCD">
+			<font  face="Arial" size="2" color="red">
+				<b>
+					<!--phone-->
+				</b>
+			</font>
+		</td>
+		<td bordercolor="#CDCDCD">
+			<font  face="Arial" size="2" color="red">
+				<b>
+					<!--fax-->
+				</b>
+			</font>
+		</td>
+		<td bordercolor="#CDCDCD">
+			<font  face="Arial" size="2" color="red">
+				<b>
+					<!--e-mail-->
+				</b>
+			</font>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="206" height="40" bordercolor="#CDCDCD">
+			<p>
+				<strong>
+					<font  face="Arial" size="2">
+						Phone
+					</font>
+				</strong>
+			</p>
+		</td>
+		<td width="176" height="40" bordercolor="#CDCDCD">
+			<p>
+				<strong>
+					<font  face="Arial" size="2">
+						Fax
+					</font>
+				</strong>
+			</p>
+		</td>
+		<td height="40" bordercolor="#CDCDCD">
+			<p>
+				<strong>
+					<font  face="Arial" size="2">
+						E-mail
+					</font>
+				</strong>
+			</p>
+		</td>
+	</tr>
+</table>
+<br>
+
+
+<table width="700" border="1" cellpadding="10" cellspacing="0" bordercolor="#666666" bgcolor="#EEEEEE">
+	<tr>
+		<td valign="top">
+			<p align="left">
+				<font face="Arial" size="2">
+					<b>
+						Which Workshop?
+					</b>
+				</font>
+				<font face="Arial" size="2" color="red">
+					<b>
+						<i>
+							<!--which_workshop-->
+						</i>
+					</b>
+				</font>
+			</p>
+		</td>
+	</tr>
+</table>
+<br>
+<br>
+<br>
+<br>

@@ -1,0 +1,53 @@
+  Date: 07/12/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 15:09:49                            PR Options - Reconcile - Outstanding Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+
+Options:        Report Format: 2                  Cutoff Date: 06/30/2011         # of copies: 1
+
+                                           Co#:   1
+
+    Emp Id      Employee Name                          Check#      Check Date   Clear Date      Type           Amount
+ ---------      ------------------------------      ---------      ----------   ----------      ----      -----------
+     14104      Roberts, Debra L                        11440      10/31/2008                   O                 .00
+     14012      Moyer, James C                          12528      06/24/2011                   M             1671.26
+      2004      Johnston, Kimberly J                    12529      06/30/2011                   O             2680.28
+      2013      Hollon, Susan L                         12530      06/30/2011                   O             2318.20
+      2026      Williams, Shayla R                      12531      06/30/2011                   O              426.60
+      2030      Williams, Stephanie R                   12532      06/30/2011                   O              412.31
+      3023      Hinton, Christopher E                   12533      06/30/2011                   O             1621.23
+      3029      Meyer, Kimberly K                       12534      06/30/2011                   O              759.78
+      5090      Baum, Nathaniel R                       12535      06/30/2011                   O             2179.93
+      5093      Stoneking, Wendy L                      12536      06/30/2011                   O             2548.79
+      5094      Gross, Bryan P                          12537      06/30/2011                   O             3012.28
+      6017      Peasley, Frank S                        12538      06/30/2011                   O             2889.96
+      7006      Leonard, Marty E                        12539      06/30/2011                   O             1765.40
+     10037      York, Karen L                           12540      06/30/2011                   O               83.02
+     10038      Wallis, Judy D                          12541      06/30/2011                   O               83.02
+     11018      Carr, Patricia S                        12542      06/30/2011                   O             1825.72
+     13087      Ormseth, Matthew A                      12543      06/30/2011                   O             3637.62
+     13136      Williams, Dustin M                      12544      06/30/2011                   O             2733.26
+     13140      Carr, Amber D                           12545      06/30/2011                   O             2538.59
+     13141      Knight, Willis M                        12546      06/30/2011                   O             2138.35
+     14090      Bowen, James L                          12547      06/30/2011                   O             2147.15
+     14123      Briggs, Chad R                          12548      06/30/2011                   O             1263.82
+     14128      Kahler, Jeffrey R                       12549      06/30/2011                   O              777.96
+     14129      Early, Brian K                          12550      06/30/2011                   O             1258.49
+     14130      Haukereid, Kyle H                       12551      06/30/2011                   O             1263.82
+      2014      Morvee, Janeen L                        12552      06/30/2011                   O             2286.78
+     18022      Holler, Julia J                         12553      06/30/2011                   O              326.89
+     18024      Howe, Scotty L                          12554      06/30/2011                   O             3195.26
+     18026      Blanchard, Sherri L                     12555      06/30/2011                   O              141.52
+     18037      Leetch, Pamela L                        12556      06/30/2011                   O             3002.84
+     92006      Manning, Wendell W                      12557      06/30/2011                   O             1729.06
+     92007      Manning, Faye J                         12558      06/30/2011                   O              337.38
+
+                                                                                         Company Total:      53056.57  *
+
+
+                                                                                  Total Regular Checks:      51385.31  *
+                                                                                         Manual Checks:       1671.26  *
+ 
+

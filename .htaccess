@@ -1,0 +1,95 @@
+#Error Docs
+ErrorDocument 400 /index.php?error=400
+ErrorDocument 401 /index.php?error=401
+ErrorDocument 403 /index.php?error=403
+ErrorDocument 404 /index.php?error=404
+ErrorDocument 500 /index.php?error=500
+
+RewriteEngine on
+Options +FollowSymlinks
+
+
+#WWW to NON-WWW
+RewriteCond %{HTTP_HOST} !^conversecounty.org$
+RewriteRule ^(.*)$ http://conversecounty.org/$1 [R=302,L]
+
+#custom
+RewriteRule ^forms?/([/A-Za-z0-9-_]+)/?$ http://forms.conversecounty.org/$1 [R=302,NC]
+RewriteRule ^gov-admin/county-assessor/map-server/?$ http://converse.greenwoodmap.com/ [R=302,NC]
+RewriteRule ^elections?/?$ /gov-admin/county-clerk/elections [R=302,NC]
+RewriteRule ^gov-admin/county-clerk/elections/([0-9]{4})/?$ /gov-admin/county-clerk/elections [R=302,NC]
+RewriteRule ^treasurer(/)?$ /gov-admin/treasurer/ [R=302,NC]
+RewriteRule ^gov-admin/boards/predatory-animal(/)?$ /gov-admin/boards/predator-management/ [R=301,NC]
+RewriteRule ^gov-admin/boards/predator-management-district-board-directors(/)?$ /gov-admin/boards/predator-management/ [R=301,NC]
+RewriteRule ^gov-admin/business/public-hearing/(.*)$ /gov-admin/public-hearing-notices/$1 [R=302,NC,L]
+RewriteRule ^gov-admin/business/public-hearing/?$ /gov-admin/public-hearing-notices [R=302,NC,L]
+
+#customfiles
+RewriteRule ^gov-admin/county-clerk/Notary-Public-Application-Form.pdf$ http://conversecounty.org/gov-admin/county-clerk/notary-public/Notary-Public-Application-Form.pdf [R=302,L,NC]
+RewriteRule ^gov-admin/county-clerk/elections/2012_SS_Election_Calendar.pdf$ http://soswy.state.wy.us/Forms/Publications/2012_Election_Calendar.pdf [R=302,L,NC]
+RewriteRule ^gov-admin/county-clerk/fee-schedule.pdf$ http://conversecounty.org/gov-admin/county-clerk/recorded-documents [R=301,L,NC]
+RewriteRule ^gov-admin/county-clerk/fee-schedule-eff-070113.pdf$ http://conversecounty.org/gov-admin/county-clerk/recorded-documents [R=301,L,NC]
+
+#Old site to new site
+RewriteRule ^index.html?$ / [R=302,NC]
+RewriteRule ^gov_admin.html?$ /gov-admin [R=302,NC]
+RewriteRule ^other.html?$ / [R=302,NC]
+RewriteRule ^announce_notice.html?$ /announcements [R=302,NC]
+RewriteRule ^gov_admin/notary_public.html?$ /gov-admin/business/notary-public [R=302,NC]
+RewriteRule ^gov_admin/assessor.html?$ /gov-admin/county-assessor [R=302,NC]
+RewriteRule ^gov_admin/commissioners.html?$ /gov-admin/county-commissioners [R=302,NC]
+RewriteRule ^community.html?$ /community [R=302,NC]
+RewriteRule ^gov_admin/elections.html?$ /gov-admin/county-clerk/elections [R=302,NC]
+RewriteRule ^gov_admin/clerk.html?$ /gov-admin/county-clerk [R=302,NC]
+RewriteRule ^gov_admin/courts.html?$ /gov-admin/circuit-court [R=302,NC]
+RewriteRule ^community/history.html?$ /community/history [R=302,NC]
+RewriteRule ^email.html?$ /contact [R=302,NC]
+RewriteRule ^gov_admin/clerk_of_court.html?$ /gov-admin/district-court-clerk [R=302,NC]
+RewriteRule ^community/recreation.activities.html?$ /community/recreation/activities [R=302,NC]
+RewriteRule ^gov_admin/clerk.auto_titles.html?$ /gov-admin/county-clerk/titles [R=302,NC]
+RewriteRule ^county-commissioners/meeting-minutes?$ /gov-admin/county-commissioners/meeting-minutes [R=302]
+RewriteRule ^announcements/employment-opportunities?$ /gov-admin/employment-opportunities [R=302,NC]
+
+RewriteRule ^gov-admin/business/notices/2012/(.*).pdf$ /gov-admin/business/public-hearing/$1.pdf [R=302,L,NC]
+RewriteRule ^gov-admin/business/notices(/)?$ /gov-admin/business/public-hearing [R=302,NC]
+
+#Custom Webpage Exceptions
+RewriteRule ^gov-admin/gis(/)?$ /gov-admin/gis/index.html [R=302,NC]
+RewriteRule ^gov_admin/GIS/GIS3/(.*)?$ /gov-admin/gis/$1 [R=302,NC]
+RewriteRule ^gov-admin/gis/(.*)$ custom/gis/$1 [NC,L]
+
+RewriteRule ^scholarships(/)?$ /gov-admin/scholarships [R=302,NC]
+
+RewriteRule ^gov-admin/treasurer?$ /gov-admin/treasurer/ [R=302,NC]
+RewriteRule ^gov-admin/treasurer/?$ /gov-admin/treasurer/index.html [NC]
+RewriteRule ^gov_admin/treasurer/(.*)?$ /gov-admin/treasurer/$1 [R=302,NC]
+RewriteRule ^gov-admin/treasurer/(.*)$ custom/treasurer/$1 [NC,L]
+
+#rewrite any year folders
+RewriteRule ^gov-admin/county-commissioners/meeting-minutes/([0-9]{4})(/)?$ /gov-admin/county-commissioners/meeting-minutes [R=302,NC]
+RewriteRule ^gov-admin/county-commissioners/agenda/([0-9]{4})(/)?$ /gov-admin/county-commissioners/agenda [R=302,NC]
+
+#Main Rewrite
+RewriteRule ^search(/)?$ index.php?page=search [NC,QSA]
+#RewriteRule ^([/A-Za-z0-9-_]+)(/)?$ index.php?page=$1 [NC]
+RewriteRule ^(contact|gov-admin|community|announcements|links|onecent)/?$ index.php?page=$1 [NC]
+RewriteRule ^(contact|gov-admin|community|announcements|links|onecent)/([/A-Za-z0-9-_]+)/?$ index.php?page=$1/$2 [NC]
+
+#Files Rewrite
+RewriteRule ^(.*).(xls|pdf|docx?|xlsx?|pptx?)$ files/$1.$2 [NC]
+
+#Image Rewrite
+RewriteRule ^(.*)_full.(jpe?g|gif|png|tiff)$ images/$1.$2 [NC,L]
+RewriteRule ^(.*)_thumb.(jpe?g|gif|png|tiff)$ images/$1_thumb.$2 [NC,L]
+
+#Dynamic Javascript Rewrite
+RewriteRule ^js/(.*)_dynamic.js$ js/$1.php [NC,L]
+
+#Sitemap Rewrite
+RewriteRule ^sitemap.xml$ index.php?do=sitemap [NC,L]
+
+#Title Rewrite
+RewriteRule ^im/title/(sub_)?(.*).gif$ apps/image.php?text=$2&type=$1 [NC,L]
+
+#Disable user viewing of file listings
+Options -Indexes

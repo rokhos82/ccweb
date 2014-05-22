@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Tax Payments - Mortgage Companies</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--
+function showDes() { 
+  var i, visStr, args, theObj;
+  args = showDes.arguments;
+  for (i=0; i<(args.length-2); i+=3) {
+    visStr   = args[i+2];
+    if (navigator.appName == 'Netscape' && document.layers != null) {
+      theObj = eval(args[i]);
+      if (theObj) theObj.visibility = visStr;
+    } else if (document.all != null) {
+      if (visStr == 'show') visStr = 'visible';
+      if (visStr == 'hide') visStr = 'hidden';
+      theObj = eval(args[i+1]);
+      if (theObj) theObj.style.visibility = visStr;
+  } }
+}
+//-->
+
+</script>
+
+<style>
+.textbox	{
+	position:absolute;
+	top:10px;
+	left:10px;
+	width:80%;
+	font-family : arial, serif;
+	clip: auto;
+}
+.rightlink	{
+	position: absolute;
+	font-size: x-small;
+	font-family: tahoma, serif;
+	color: red;
+	right: 5px;
+	bottom: -30px;
+}
+.defaultdic	{
+	right: 5px;
+	position : absolute;
+	top: 60px;
+	color: red;
+	width: 15%;
+	font-size: x-small;
+	font-family: tahoma,serif;
+	visibility: visible;
+	Z-Index: 10;
+}
+.otherdic	{
+	right: 5px;
+	position: absolute;
+	top: 60px;
+	color: red;
+	width: 15%;
+	font-size: x-small;
+	font-family: tahoma,serif;
+	visibility: hidden;
+	z-index: 10;
+}
+</style>
+
+
+	<link rel=stylesheet type="text/css" href="treas.css">
+</head>
+
+<body>
+<span class="textbox">
+<h2><b>What if my Mortgage Company pays my taxes?</b></h2>
+<p>
+Most of the real estate in Converse County is serviced in some way by a mortgage company.
+<p>
+Even if your a mortgage company pays your taxes, you will still receive a tax notice on
+September 1st of each year.  This notice is for your records.
+<p>
+The mortgage companies send lists each year requesting information on property accounts.  The
+Treasurer's Office sends them the tax information.  For most mortgage companies, the 
+information is sent electronically or on data tape.
+<p>
+Mortgage companies then make tax payments in November and May.  By law, they are required to
+pay your taxes in the maximum number of payments allowed by the state.  Therefore, they do
+not have the option of paying your taxes all at once in September or December.  They must
+pay in halves, in November and May.
+<p>
+
+
+
+
+<A name="AdVal" onmouseout="showDes('document.layers[\'default\']','document.all[\'default\']','show','document.layers[\'spec\']','document.all[\'spec\']','hide')"
+	onmouseover ="showDes('document.layers[\'default\']','document.all[\'default\']','hide','document.layers[\'spec\']','document.all[\'spec\']','show')">
+	<font color ="red"><b></font></b></a>
+
+<p>
+</span>
+<div class="defaultdic" id="default">Place your mouse over any word in red and all-caps in
+ order to see definitions of those words.</div>
+<div class="otherdic" id="spec">
+<b>Redeeming</b> a property means that the landowner (or someone else with sufficient interest in
+the property) pays all the back taxes, plus interest and fees to the Treasurer's Office.<p>
+The Treasurer's Office then pays the Certificate of Purchase holder the amount paid for the
+certificate plus an interest rate of <b>18%</b> per year.  The CP holder then returns the
+original certificate to the Treasurer's Office.
+</div>
+
+<span class = "rightlink">
+<a href="taxsaleright.htm" target="Tax Main">What right does a CP holder have to the property?</a>
+</span>
+</body>
+</html>
+

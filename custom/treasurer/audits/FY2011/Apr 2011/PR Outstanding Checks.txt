@@ -1,0 +1,47 @@
+  Date: 05/17/2011                                        CONVERSE COUNTY                                         Page:      1
+  Time: 14:52:29                            PR Options - Reconcile - Outstanding Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+
+Options:        Report Format: 2                  Cutoff Date: 04/30/2011         # of copies: 1
+
+                                           Co#:   1
+
+    Emp Id      Employee Name                          Check#      Check Date   Clear Date      Type           Amount
+ ---------      ------------------------------      ---------      ----------   ----------      ----      -----------
+     14104      Roberts, Debra L                        11440      10/31/2008                   O                 .00
+      2004      Johnston, Kimberly J                    12476      04/29/2011                   O             2692.64
+      2013      Hollon, Susan L                         12477      04/29/2011                   O             2622.80
+      2026      Williams, Shayla R                      12478      04/29/2011                   O               68.40
+      3023      Hinton, Christopher E                   12479      04/29/2011                   O             1631.53
+      5090      Baum, Nathaniel R                       12480      04/29/2011                   O             2272.53
+      5093      Stoneking, Wendy L                      12481      04/29/2011                   O             2548.79
+      6017      Peasley, Frank S                        12482      04/29/2011                   O             2889.96
+      7006      Leonard, Marty E                        12483      04/29/2011                   O             1887.55
+     10032      Blackburn, Sheri A                      12484      04/29/2011                   O              290.59
+     10036      Harris, Rebecca J                       12485      04/29/2011                   O              498.16
+     10037      York, Karen L                           12486      04/29/2011                   O               83.02
+     11018      Carr, Patricia S                        12487      04/29/2011                   O             1825.72
+     13087      Ormseth, Matthew A                      12488      04/29/2011                   O             3426.26
+     13136      Williams, Dustin M                      12489      04/29/2011                   O             2562.14
+     13140      Carr, Amber D                           12490      04/29/2011                   O             2248.50
+     13141      Knight, Willis M                        12491      04/29/2011                   O             2294.23
+     14085      Smith, Daniel E                         12492      04/29/2011                   O             1185.94
+     14090      Bowen, James L                          12493      04/29/2011                   O             2147.15
+      2014      Morvee, Janeen L                        12494      04/29/2011                   O             2286.78
+     18022      Holler, Julia J                         12495      04/29/2011                   O              294.42
+     18024      Howe, Scotty L                          12496      04/29/2011                   O             3671.36
+     18026      Blanchard, Sherri L                     12497      04/29/2011                   O              141.52
+     18037      Leetch, Pamela L                        12498      04/29/2011                   O             3002.84
+     92006      Manning, Wendell W                      12499      04/29/2011                   O             1729.06
+     92007      Manning, Faye J                         12500      04/29/2011                   O              337.38
+
+                                                                                         Company Total:      44639.27  *
+
+
+                                                                                  Total Regular Checks:      44639.27  *
+                                                                                         Manual Checks:           .00  *
+ 
+

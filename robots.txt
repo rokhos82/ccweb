@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /pages/
+Disallow: /custom/
+Disallow: /css/
+Disallow: /js/
+Disallow: /apps/
+Disallow: /im/
+Disallow: /include/
+Disallow: /search/
+Disallow: /temp/
+Sitemap: http://conversecounty.org/sitemap.xml

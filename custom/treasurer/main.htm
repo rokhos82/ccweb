@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Converse County Treasurer Navigation Bar</title>
+	
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var bV=parseInt(navigator.appVersion);
+NS4=(document.layers) ? true : false;
+IE4=((document.all)&&(bV>=4))?true:false;
+
+   ver4 = (NS4 || IE4) ? 1 : 0;
+    function donothing() { return }
+
+if (document.images) {
+
+    arImLoad = new Array (
+        "HomeButUp",
+	"HomeButOver",
+	"TaxButUp",
+        "TaxButOver",
+	"VehButUp",
+	"VehButOver",
+	"StButUp",
+	"StButOver",
+	"WyButUp",
+	"WyButOver"
+    );
+
+    arImList = new Array ();
+    for (counter in arImLoad) {
+        arImList[counter] = new Image();
+        arImList[counter].src = arImLoad[counter] + ".jpg";
+    }
+}
+
+    function rollOver(imName,over) {
+	if (!document.images) {return};
+        whichIm = document.images[imName];
+        if (over) { whichIm.src = imName + "over.jpg" }
+             else { whichIm.src = imName + "up.jpg" }
+    }
+//--!>
+</script>
+
+<style>     .buttonbox  {
+     	position : absolute;
+     	top : 0px;
+     	height : 10%;
+     	left : 18%;
+     	width : 50%;
+     	font-size : x-small;
+     	font-family : tahoma, serif;
+     	clip : auto;
+     	font-weight : bold;
+     	color : #FFFF80;
+     	border-left : lime;
+     	text-decoration : none;
+     	vlinkColor : #FFFF80;
+     }
+     
+     .textbox  {
+     	position : absolute;
+     	top : 80px;
+     	left : 15%;
+     	width : 75%;
+     	font-size : normal;
+     	font-family : tahoma,serif;
+     	clip : auto;
+     }
+     
+     .erniebox  {
+     	position : absolute;
+     	top : 80px;
+     	left : 2%;
+     	width : 13%;
+     	font-size : x-small;
+     	font-family : Arial,serif;
+     	clip : auto;
+     }
+     
+     </style>			
+
+
+	<link rel=stylesheet type="text/css" href="treas.css">
+</head>
+
+<body alink="#FFFF80" vlink="#FFFF80" link="#FFFF80">
+
+<span class = "buttonbox">
+
+<table border="1" cellspacing="3" cellpadding="1" bgcolor="Navy" cellborder="1">
+
+<tr>
+<td></td>
+<td bgcolor="red"><b>Home</b></td>
+<td onMouseOver = "this.style.backgroundColor='blue'" 
+	onMouseOut = "this.style.backgroundColor='Navy'">
+	<a href="taxframe.htm" target="Main" style="text-decoration: none;"><b>Taxes</b></a></td>
+
+<td onMouseOver = "this.style.backgroundColor='blue'"
+	onMouseOut = "this.style.backgroundColor='Navy'">
+	<a href="vehframe.htm" target="Main" style="text-decoration:none;"><b>License Plates</b></a></td>
+
+<td onMouseOver = "this.style.backgroundColor='blue'"
+	onMouseOut = "this.style.backgroundColor='Navy'">
+	<a href="stframe.htm" target = "Main" style="text-decoration:none;"><b>Sales Tax</b></a></td>
+	
+<td  onMouseOver="this.style.backgroundColor='blue'"
+	onMouseOut = "this.style.backgroundColor='Navy'">
+	<a href="http://www.state.wy.us/state/welcome.html" target="_top" style="text-decoration:none;">
+	<b>Wyoming</b></a></td>
+</tr>
+</table>
+</span>
+<span class = "erniebox">
+<table align="center" border="0" cellpadding="2" width=100%>
+<tr>
+<td align="center">
+<img height=78 width=54 src="ernie.jpg" valign="absmiddle"></td>
+</tr>
+<tr align="center">
+<td><font size="-1"><b>Ernie Orrell, Treasurer</b></font></td>
+</tr>
+</table>
+
+</span>
+
+<span class = "textbox">
+Wyoming counties are facing more public pressures as they provide a wider variety of services
+to the public, yet the public still expects the same, or higher, quality of service as they have
+become accustom to receiving in the past.  As expenditures tend to grow faster than the revenues
+which support them, county governments are continually operating under the combined pressures
+to maintain the status quo while striving to achieve new effeteness.
+
+Welcome to the homepage for the <b>Converse County Treasurer's Office.</b>
+This space is intended to provide you with information pertaining to the functions of the 
+County Treasurer.<p>
+You'll find information on Property Tax Assessment and Collection, Vehicle Registrations, 
+Sales and Use Taxes, and links to other State of Wyoming government sites. 
+</span>
+
+</body>
+</html>

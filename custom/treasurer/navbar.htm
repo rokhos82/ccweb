@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Converse County Treasurer Navigation Bar</title>
+	
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var bV=parseInt(navigator.appVersion);
+NS4=(document.layers) ? true : false;
+IE4=((document.all)&&(bV>=4))?true:false;
+
+   ver4 = (NS4 || IE4) ? 1 : 0;
+    function donothing() { return }
+
+if (document.images) {
+
+    arImLoad = new Array (
+        "HomeButUp",
+	"HomeButOver",
+	"TaxButUp",
+        "TaxButOver",
+	"VehButUp",
+	"VehButOver",
+	"StButUp",
+	"StButOver",
+	"WyButUp",
+	"WyButOver"
+    );
+
+    arImList = new Array ();
+    for (counter in arImLoad) {
+        arImList[counter] = new Image();
+        arImList[counter].src = arImLoad[counter] + ".gif";
+    }
+}
+
+    function rollOver(imName,over) {
+	if (!document.images) {return};
+        whichIm = document.images[imName];
+        if (over) { whichIm.src = imName + "over.gif" }
+             else { whichIm.src = imName + "up.gif" }
+    }
+//--!>
+</script>
+
+<style>  .buttonbox  {
+  	position : absolute;
+  	top : 57px;
+  	left : 400px;
+  	height : 65px;
+  	width : 540px;
+  	font-size : large;
+  	font-family : tahoma, serif;
+   	clip : auto;
+	align : bottom;
+  }
+  
+  </style>			
+
+
+	<link rel=stylesheet type="text/css" href="treas.css">
+</head>
+
+<body>
+
+<span class = "buttonbox">
+
+<img name="HomeBut" src="HomeButOver.gif" border=0>
+
+    <a href="taxframe.htm"
+		onMouseOver = "rollOver('TaxBut',true)"
+		onMouseOut = "rollOver('TaxBut',false)"
+		target="Main">
+		<img name="TaxBut" SRC="TaxButUp.gif" border=0></a>
+	<a href="vehframe.htm"
+		onMouseOver = "rollOver('VehBut',true)"
+		onMouseOut = "rollOver('VehBut',false)"
+		target="Main">
+		<img name="VehBut" src="VehButUp.gif" border="0"></a>
+
+	<a href="stframe.htm"
+		onMouseOver = "rollOver('StBut',true)"
+		onMouseOut = "rollOver('StBut',false)"
+		target="Main">
+		<img name="StBut" src="StButUp.gif" border="0"></a>
+	
+    <a href="http://www.state.wy.us/state/welcome.html"
+		onMouseOver = "rollOver('WyBut',true)"
+		onMouseOut = "rollOver('WyBut',false)"
+		target="_top">
+		<img name="WyBut" src="WyButUp.gif" border="0"></a>
+
+</span>
+
+</body>
+</html>

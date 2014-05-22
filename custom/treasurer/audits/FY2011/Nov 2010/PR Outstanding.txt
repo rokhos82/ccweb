@@ -1,0 +1,53 @@
+  Date: 12/20/2010                                        CONVERSE COUNTY                                         Page:      1
+  Time: 10:58:29                            PR Options - Reconcile - Outstanding Checks
+  Oper: jss
+
+ Ranges:                  Co#: (A)
+                   Check Date: (A)
+
+Options:        Report Format: 2                  Cutoff Date: 11/30/2010         # of copies: 1
+
+                                           Co#:   1
+
+    Emp Id      Employee Name                          Check#      Check Date   Clear Date      Type           Amount
+ ---------      ------------------------------      ---------      ----------   ----------      ----      -----------
+     14104      Roberts, Debra L                        11440      10/31/2008                   O                 .00
+      5013      Meyer, Nancy M                          12280      11/12/2010                   O             1732.10
+      7006      Leonard, Marty E                        12309      11/12/2010                   O             1847.00
+     14012      Moyer, James C                          12330      11/12/2010                   O             1640.85
+     14016      McWilliams, Scott L                     12331      11/12/2010                   O             1640.85
+     14090      Bowen, James L                          12338      11/12/2010                   O             1822.42
+     18003      Rankin, Linda K                         12347      11/12/2010                   O             1611.58
+     14124      Parker, John S                          12351      11/16/2010                   M             1334.54
+      2004      Johnston, Kimberly J                    12352      11/30/2010                   O             2693.26
+      2013      Hollon, Susan L                         12353      11/30/2010                   O             2248.04
+      3023      Hinton, Christopher E                   12354      11/30/2010                   O             1768.98
+      3028      Martin, Tiffany A                       12355      11/30/2010                   O             1761.86
+      5090      Baum, Nathaniel R                       12356      11/30/2010                   O             2602.73
+      6005      Curtin, Charleen                        12357      11/30/2010                   O             3008.83
+      6017      Peasley, Frank S                        12358      11/30/2010                   O             2801.92
+      7006      Leonard, Marty E                        12359      11/30/2010                   O             1791.97
+     11017      Benavides, Misty D                      12360      11/30/2010                   O             1715.63
+     13068      Stoneking, Wendy L                      12361      11/30/2010                   O             3910.55
+     13087      Ormseth, Matthew A                      12362      11/30/2010                   O             4145.41
+     13115      Vialpando, Miles M                      12363      11/30/2010                   O             3132.93
+     13136      Williams, Dustin M                      12364      11/30/2010                   O             3059.52
+     13137      Raymond-Dwyer, Corey                    12365      11/30/2010                   O             2773.24
+     13140      Carr, Amber D                           12366      11/30/2010                   O             2443.22
+     13141      Knight, Willis M                        12367      11/30/2010                   O             2771.17
+     14090      Bowen, James L                          12368      11/30/2010                   O             2151.86
+      2014      Morvee, Janeen L                        12369      11/30/2010                   O             2261.21
+     18022      Holler, Julia J                         12370      11/30/2010                   O              279.67
+     18024      Howe, Scott L                           12371      11/30/2010                   O             3621.22
+     18026      Blanchard, Sherri L                     12372      11/30/2010                   O              138.52
+     18037      Leetch, Pamela L                        12373      11/30/2010                   O             2923.60
+     92006      Manning, Wendell W                      12374      11/30/2010                   O             1733.79
+     92007      Manning, Faye J                         12375      11/30/2010                   O              330.23
+
+                                                                                         Company Total:      67698.70  *
+
+
+                                                                                  Total Regular Checks:      66364.16  *
+                                                                                         Manual Checks:       1334.54  *
+ 
+

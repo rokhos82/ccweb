@@ -1,0 +1,49 @@
+<html>
+<head>	
+<title>Test</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ 
+ 
+<script language="JavaScript">
+<!--
+function showDes() { 
+  var i, visStr, args, theObj;
+  args = showDes.arguments;
+  for (i=0; i<(args.length-2); i+=3) {
+    visStr   = args[i+2];
+    if (navigator.appName == 'Netscape' && document.layers != null) {
+      theObj = eval(args[i]);
+      if (theObj) theObj.visibility = visStr;
+    } else if (document.all != null) {
+      if (visStr == 'show') visStr = 'visible';
+      if (visStr == 'hide') visStr = 'hidden';
+      theObj = eval(args[i+1]);
+      if (theObj) theObj.style.visibility = visStr;
+  } }
+}
+//-->
+</script>
+
+
+	<link rel=stylesheet type="text/css" href="treas.css">
+</head>
+
+<body>
+
+<div id="background" style="right: 0px; OVERFLOW: visible; POSITION: absolute; TOP: 0px; VISIBILITY: visible; Z-INDEX: 20"></div>
+<div id="default" style="HEIGHT: 120px; LEFT: 220px; POSITION: absolute; TOP: 0px; VISIBILITY: visible; WIDTH: 180px; Z-INDEX: 10"></div>
+<div id="home" style="HEIGHT: 120px; Right: 0px; POSITION: absolute; TOP: 0px; VISIBILITY: hidden; WIDTH: 180px; Z-INDEX: 10"> 	
+Home</div>
+
+<div id="content" style="LEFT: 0px; OVERFLOW: visible; POSITION: absolute; TOP: 0px; VISIBILITY: visible; WIDTH: 100%; Z-INDEX: 2">
+<table>
+<tr>
+<td><A href="main.htm" onmouseout="showDes('document.layers[\'default\']','document.all[\'default\']','show','document.layers[\'home\']','document.all[\'home\']','hide')" onmouseover ="showDes('document.layers[\'default\']','document.all[\'default\']','hide','document.layers[\'home\']','document.all[\'home\']','show')"><b>Where the Heart Is</b></A>
+</table></td></td>
+</div>
+
+
+
+</body>
+
+</html>

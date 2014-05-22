@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Sales Tax Navigation</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var bV=parseInt(navigator.appVersion);
+NS4=(document.layers) ? true : false;
+IE4=((document.all)&&(bV>=4))?true:false;
+
+   ver4 = (NS4 || IE4) ? 1 : 0;
+    function donothing() { return }
+
+if (document.images) {
+
+    arImLoad = new Array (
+    "HomeButUp",
+	"HomeButOver",
+	"TaxButUp",
+    "TaxButOver",
+	"VehButUp",
+	"VehButOver",
+	"StButUp",
+	"StButOver",
+	"WyButUp",
+	"WyButOver",
+	"TaxHomeButOver",
+	"TaxHomeButUp",
+	"TaxMillButOver",
+	"TaxMillButUp",
+	"TaxPmtButOver",
+	"TaxPmtButUp"
+	);
+
+    arImList = new Array ();
+    for (counter in arImLoad) {
+        arImList[counter] = new Image();
+        arImList[counter].src = arImLoad[counter] + ".jpg";
+    }
+}
+
+    function rollOver(imName,over) {
+	if (!document.images) {return};
+        whichIm = document.images[imName];
+        if (over) { whichIm.src = imName + "over.jpg" }
+             else { whichIm.src = imName + "up.jpg" }
+    }
+//--!>
+</script>
+
+<style>
+
+	.buttonbox  {
+  	position : absolute;
+  	top : 0px;
+  	left : 20px;
+  	font-size : large;
+  	font-family : tahoma, serif;
+   	clip : auto;
+
+  }
+</style>
+
+
+	<link rel=stylesheet type="text/css" href="treas.css">
+</head>
+
+<body>
+<span class = "buttonbox">
+<table cellspacing=0 cellpadding=0 cellborder=0>
+<tr>
+	<td><a href="main.htm"
+		onMouseOver = "rollOver('HomeBut',true)"
+		onMouseOut = "rollOver('HomeBut',false)" target="Main">
+		<img name="HomeBut" src="HomeButUp.jpg" border=0 height=30 width=60></a></td>
+   	<td><A HREF="taxframe.htm"
+		onMouseOver = "rollOver('TaxBut',true)"
+		onMouseOut = "rollOver('TaxBut',false)" target="Main">
+		<img name="TaxBut" SRC="TaxButUp.jpg" border=0 height=30 width=60></a></td>
+	<td><a href="vehframe.htm"
+		onMouseOver = "rollOver('VehBut',true)"
+		onMouseOut = "rollOver('VehBut',false)">
+		<img name="VehBut" src="VehButUp.jpg" border="0" width=118 height=30></a></td>
+	<td><a href="stframe.htm" target = "Main">
+		<img name="StBut" src="StButOver.jpg" border=0 width=103 height=38></a></td>
+	<td><a href="http://www.state.wy.us/state/welcome.html"
+		onMouseOver = "rollOver('WyBut',true)"
+		onMouseOut = "rollOver('WyBut',false)" target="_top">
+	<img name="WyBut" src="WyButUp.jpg" border=0 height=30 width=60></a></td>
+	
+</tr>
+
+</table>
+
+</span>
+
+
+</body>
+</html>
