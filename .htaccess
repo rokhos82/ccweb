@@ -10,8 +10,8 @@ Options +FollowSymlinks
 
 
 #WWW to NON-WWW
-RewriteCond %{HTTP_HOST} !^conversecounty.org$
-RewriteRule ^(.*)$ http://conversecounty.org/$1 [R=302,L]
+RewriteCond %{HTTP_HOST} !^192.168.20.200$
+RewriteRule ^(.*)$ http://192.168.20.200/$1 [R=302,L]
 
 #custom
 RewriteRule ^forms?/([/A-Za-z0-9-_]+)/?$ http://forms.conversecounty.org/$1 [R=302,NC]

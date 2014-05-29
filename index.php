@@ -35,6 +35,7 @@ if(time()<1299913200)
 //END TEMP
 
 $cachetime = @filemtime($global['cachelocation']);
+if(!isset($_GET['error'])) $_GET['error'] = 0;
 if(!(intval($_GET['error']) > 0) && $global['page'] != "search" && file_exists($global['cachelocation']) && $cachetime+$secexpire > time() && filemtime($global['pagelocation']) < $cachetime && $GetFile = fopen($global['cachelocation'],"r")) { 
     while (!feof($GetFile)){
       echo fgets($GetFile,128);
