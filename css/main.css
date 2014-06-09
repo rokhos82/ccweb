@@ -76,6 +76,8 @@ p{text-indent:20px;}
 p.note{padding:20px;}
 #content table p,#content li p{text-indent:0;margin:0;padding:0;}
 .contactinfo{padding:0px 0px 10px 30px;display:block;float:right;font-size:13pt;line-height:14pt;text-align:center;}
+.contactinfo-left{padding: 0px 0px 10px 30px;display: block;float: left;font-size:13pt;line-height:14pt;text-align:center;}
+.contactinfo-inline{padding: 0px 0px 10px 30px;display: inline-block;font-size:13pt;line-height:14pt;text-align:center;}
 .linklist span{padding-left:24px;}
 .linklist{list-style-type:none;margin-top:5px;padding-left:25px;}
 .linklist b{display:inline-block;padding:5px;}
