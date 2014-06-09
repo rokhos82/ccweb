@@ -98,4 +98,5 @@ $menu = array(
 	77 => 	array ( 'text' => 'Eastern Wyo. College (Douglas Campus)', 'link' => '/onecent/ewc-douglas' , 'parent' => 73 ),
 	
 	78 => 	array ( 'text' => 'Special Districts', 'link' => '/gov-admin/special-districts' , 'parent' => 2 ),
+	79 =>	array ( 'text' => 'Permits and Regulations', 'link' => '/gov-admin/permit-reg', 'parent' => 2 )
 );
