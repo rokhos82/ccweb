@@ -98,5 +98,11 @@ $menu = array(
 	77 => 	array ( 'text' => 'Eastern Wyo. College (Douglas Campus)', 'link' => '/onecent/ewc-douglas' , 'parent' => 73 ),
 	
 	78 => 	array ( 'text' => 'Special Districts', 'link' => '/gov-admin/special-districts' , 'parent' => 2 ),
-	79 =>	array ( 'text' => 'Permits and Regulations', 'link' => '/gov-admin/permit-reg', 'parent' => 2 )
+	79 =>	array ( 'text' => 'Permits and Regulations', 'link' => '/gov-admin/permit-reg', 'parent' => 2 ),
+
+	80 =>	array ( 'text' => 'Case Types', 'link' => '/gov-admin/district-court-clerk/case-types', 'parent' => 17),
+	81 =>	array ( 'text' => 'Child Support', 'link' => '/gov-admin/district-court-clerk/child-support', 'parent' => 17),
+	82 =>	array ( 'text' => 'Filing Fees', 'link' => '/gov-admin/district-court-clerk/filing-fees', 'parent' => 17),
+	83 =>	array ( 'text' => 'Jury Duty', 'link' => '/gov-admin/district-court-clerk/jury-duty', 'parent' => 17),
+	84 =>	array ( 'text' => 'Passports', 'link' => '/gov-admin/district-court-clerk/passports', 'parent' => 17)
 );
