@@ -104,5 +104,6 @@ $menu = array(
 	81 =>	array ( 'text' => 'Child Support', 'link' => '/gov-admin/district-court-clerk/child-support', 'parent' => 17),
 	82 =>	array ( 'text' => 'Filing Fees', 'link' => '/gov-admin/district-court-clerk/filing-fees', 'parent' => 17),
 	83 =>	array ( 'text' => 'Jury Duty', 'link' => '/gov-admin/district-court-clerk/jury-duty', 'parent' => 17),
-	84 =>	array ( 'text' => 'Passports', 'link' => '/gov-admin/district-court-clerk/passports', 'parent' => 17)
+	84 =>	array ( 'text' => 'Passports', 'link' => '/gov-admin/district-court-clerk/passports', 'parent' => 17),
+	85 =>	array ( 'text' => 'Other Resources', 'link' => '/gov-admin/district-court-clerk/links', 'parent' => 17),
 );
