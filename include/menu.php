@@ -22,7 +22,7 @@ $menu = array(
 	14 => 	array ( 'text' => 'County Attorney', 'link' => '/gov-admin/county-attorney', 'parent' => 7 ),
 	15 => 	array ( 'text' => 'County Clerk', 'link' => '/gov-admin/county-clerk', 'parent' => 7 ),
 	16 => 	array ( 'text' => 'County Commissioners', 'link' => '/gov-admin/county-commissioners', 'parent' => 7 ),
-	17 => 	array ( 'text' => 'District Court Clerk', 'link' => '/gov-admin/district-court-clerk', 'parent' => 7 ),
+	17 => 	array ( 'text' => 'Clerk of District Court', 'link' => '/gov-admin/district-court-clerk', 'parent' => 7 ),
 	18 => 	array ( 'text' => 'Emergency Management', 'link' => '/gov-admin/emergency-management', 'parent' => 7 ),
 	19 => 	array ( 'text' => 'Extension', 'link' => '/gov-admin/extension', 'parent' => 7 ),
 	20 => 	array ( 'text' => 'GIS Department', 'link' => '/gov-admin/gis', 'parent' => 7 ),
@@ -98,5 +98,12 @@ $menu = array(
 	77 => 	array ( 'text' => 'Eastern Wyo. College (Douglas Campus)', 'link' => '/onecent/ewc-douglas' , 'parent' => 73 ),
 	
 	78 => 	array ( 'text' => 'Special Districts', 'link' => '/gov-admin/special-districts' , 'parent' => 2 ),
-	79 =>	array ( 'text' => 'Permits and Regulations', 'link' => '/gov-admin/permit-reg', 'parent' => 2 )
+	79 =>	array ( 'text' => 'Permits and Regulations', 'link' => '/gov-admin/permit-reg', 'parent' => 2 ),
+
+	80 =>	array ( 'text' => 'Case Types', 'link' => '/gov-admin/district-court-clerk/case-types', 'parent' => 17),
+	81 =>	array ( 'text' => 'Child Support', 'link' => '/gov-admin/district-court-clerk/child-support', 'parent' => 17),
+	82 =>	array ( 'text' => 'Filing Fees', 'link' => '/gov-admin/district-court-clerk/filing-fees', 'parent' => 17),
+	83 =>	array ( 'text' => 'Jury Duty', 'link' => '/gov-admin/district-court-clerk/jury-duty', 'parent' => 17),
+	84 =>	array ( 'text' => 'Passports', 'link' => '/gov-admin/district-court-clerk/passports', 'parent' => 17),
+	85 =>	array ( 'text' => 'Other Resources', 'link' => '/gov-admin/district-court-clerk/links', 'parent' => 17),
 );
