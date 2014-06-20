@@ -22,7 +22,7 @@ $menu = array(
 	14 => 	array ( 'text' => 'County Attorney', 'link' => '/gov-admin/county-attorney', 'parent' => 7 ),
 	15 => 	array ( 'text' => 'County Clerk', 'link' => '/gov-admin/county-clerk', 'parent' => 7 ),
 	16 => 	array ( 'text' => 'County Commissioners', 'link' => '/gov-admin/county-commissioners', 'parent' => 7 ),
-	17 => 	array ( 'text' => 'District Court Clerk', 'link' => '/gov-admin/district-court-clerk', 'parent' => 7 ),
+	17 => 	array ( 'text' => 'Clerk of District Court', 'link' => '/gov-admin/district-court-clerk', 'parent' => 7 ),
 	18 => 	array ( 'text' => 'Emergency Management', 'link' => '/gov-admin/emergency-management', 'parent' => 7 ),
 	19 => 	array ( 'text' => 'Extension', 'link' => '/gov-admin/extension', 'parent' => 7 ),
 	20 => 	array ( 'text' => 'GIS Department', 'link' => '/gov-admin/gis', 'parent' => 7 ),
