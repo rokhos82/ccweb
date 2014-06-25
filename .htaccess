@@ -19,6 +19,7 @@ RewriteRule ^gov-admin/county-assessor/map-server/?$ http://converse.greenwoodma
 RewriteRule ^elections?/?$ /gov-admin/county-clerk/elections [R=302,NC]
 RewriteRule ^gov-admin/county-clerk/elections/([0-9]{4})/?$ /gov-admin/county-clerk/elections [R=302,NC]
 RewriteRule ^treasurer(/)?$ /gov-admin/treasurer/ [R=302,NC]
+RewriteRule ^it(/)?$ /gov-admin/information-technology/ [R=302,NC]
 RewriteRule ^gov-admin/boards/predatory-animal(/)?$ /gov-admin/boards/predator-management/ [R=301,NC]
 RewriteRule ^gov-admin/boards/predator-management-district-board-directors(/)?$ /gov-admin/boards/predator-management/ [R=301,NC]
 RewriteRule ^gov-admin/business/public-hearing/(.*)$ /gov-admin/public-hearing-notices/$1 [R=302,NC,L]
