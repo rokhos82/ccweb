@@ -102,6 +102,8 @@ hr{color:#333;margin:10px 0;}
 .date-month{position:relative;top:-2px;}
 .tablehead td{padding-top:50px;}
 .info{background:url('/im/icons/information.png') 6px center #98c1e8 no-repeat;border:1px solid #48739c;color:#163d61;margin:0 0 20px;padding:5px 5px 5px 26px;}
+.infolink{background-image:url('/im/icons/information.png'); background-repeat: no-repeat; background-position: left; padding-left: 20px;}
+.infolink-right{background-image:url('/im/icons/information.png'); background-repeat: no-repeat; background-position: right; padding-right: 20px;}
 .ddsmoothmenu{color:#FFF;font:bold 12px Verdana;background:transparent;padding-left:125px;width:100%;}
 .ddsmoothmenu ul{z-index:100;list-style-type:none;margin:0;padding:0;}
 .ddsmoothmenu ul li{position:relative;display:inline;float:left;}
