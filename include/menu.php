@@ -25,7 +25,7 @@ $menu = array(
 	17 => 	array ( 'text' => 'Clerk of District Court', 'link' => '/gov-admin/district-court-clerk', 'parent' => 7 ),
 	18 => 	array ( 'text' => 'Emergency Management', 'link' => '/gov-admin/emergency-management', 'parent' => 7 ),
 	19 => 	array ( 'text' => 'Extension', 'link' => '/gov-admin/extension', 'parent' => 7 ),
-	20 => 	array ( 'text' => 'GIS Department', 'link' => '/gov-admin/gis', 'parent' => 7 ),
+	//20 => 	array ( 'text' => 'GIS Department', 'link' => '/gov-admin/gis', 'parent' => 7 ),
 	21 => 	array ( 'text' => 'Public Health', 'link' => '/gov-admin/public-health', 'parent' => 7 ),
 	22 => 	array ( 'text' => 'Road &amp; Bridge', 'link' => '/gov-admin/road-and-bridge', 'parent' => 7 ),
 	23 => 	array ( 'text' => 'Sheriff', 'link' => 'http://www.conversesheriff.info/', 'parent' => 7 ),
