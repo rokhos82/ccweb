@@ -446,6 +446,11 @@ function current_topic($topicid)
 			$icon = "announcements";
 			$link = "/gov-admin/business/notices";
 		break;
+    case "jpb":
+      $id = "Joint Powers Board";
+      $icon = "announcements";
+      $link = "/gov-admin/county-commissioners/joint-powers-board";
+    break;
 	}
 	
 	return "<span class='doctopic".($icon!=false?' menu_icon_'.$icon:'')."'>Topic: ".($link!=false?'<a href="'.$link.'">':'').$id.($link!=false?'</a>':'')."</span>";
