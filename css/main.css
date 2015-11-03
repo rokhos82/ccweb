@@ -126,3 +126,5 @@ hr{color:#333;margin:10px 0;}
 .ddsmoothmenu ul li a.selected,.ddsmoothmenu ul li a:hover{background:#036;color:#FFF;}
 .more_information { background-color: #e3f0fd; border: 1px solid #cde6ff; padding: 4px; margin: 2px;  }
 .contact-card {margin-left: 20px; margin-top: 10px; padding: 5px;}
+a.inactive {pointer-events: none; cursor: default; opacity: 0.7;}
+a.named {pointer-events: none; cursor: default; text-decoration: none;}
