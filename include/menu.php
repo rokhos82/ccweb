@@ -58,7 +58,7 @@ $menu = array(
 	47 => 	array ( 'text' => 'Fire Agencies', 'link' => '/community/fire', 'parent' => 3 ),
 	48 =>   array ( 'text' => 'Elections', 'link' => '/gov-admin/county-clerk/elections', 'parent' => 2 ),
 	49 => 	array ( 'text' => 'Wellness Committee ', 'link' => '/community/wellness', 'parent' => 3 ),
-	50 => 	array ( 'text' => 'codeRed', 'link' => 'https://login.coderedweb.com/codereddataentry/Default.aspx?groupid=eMIHFpiGwTf3UWLOT%2f9zGA%3d%3d', 'parent' => 3 ),
+	50 => 	array ( 'text' => 'codeRed', 'link' => 'https://public.coderedweb.com/CNE/492E07D4AAF0', 'parent' => 3 ),
 	51 => 	array ( 'text' => 'Converse County Cares', 'link' => '/community/cares', 'parent' => 3 ),
 
 	52 => 	array ( 'text' => 'CANDO', 'link' => 'http://www.candowyoming.com', 'parent' => 43 ),
