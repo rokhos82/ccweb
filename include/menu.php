@@ -106,4 +106,10 @@ $menu = array(
 	83 =>	array ( 'text' => 'Jury Duty', 'link' => '/gov-admin/district-court-clerk/jury-duty', 'parent' => 17),
 	84 =>	array ( 'text' => 'Passports', 'link' => '/gov-admin/district-court-clerk/passports', 'parent' => 17),
 	85 =>	array ( 'text' => 'Other Resources', 'link' => '/gov-admin/district-court-clerk/links', 'parent' => 17),
+
+	// New Department pages
+	86 =>	array ( 'text' => 'Special Projects', 'link' => '/gov-admin/special-projects', 'parent' => 7),
+	87 =>	array ( 'text' => 'Information Technology', 'link' => '/gov-admin/information-technology', 'parent' => 7),
+	88 =>	array (	'text' => 'County Surveyor', 'link' => '/gov-admin/surveyor', 'parent' => 7),
+	89 =>	array (	'text' => 'Maintenance', 'link' => '/gov-admin/mainentance', 'parent' => 7)
 );
