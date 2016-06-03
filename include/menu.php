@@ -28,7 +28,7 @@ $menu = array(
 	//20 => 	array ( 'text' => 'GIS Department', 'link' => '/gov-admin/gis', 'parent' => 7 ),
 	21 => 	array ( 'text' => 'Public Health', 'link' => '/gov-admin/public-health', 'parent' => 7 ),
 	22 => 	array ( 'text' => 'Road &amp; Bridge', 'link' => '/gov-admin/road-and-bridge', 'parent' => 7 ),
-	23 => 	array ( 'text' => 'Sheriff', 'link' => 'http://www.conversesheriff.info/', 'parent' => 7 ),
+	23 => 	array ( 'text' => 'Sheriff', 'link' => '/gov-admin/sheriff', 'parent' => 7 ),
 	24 => 	array ( 'text' => 'Treasurer', 'link' => '/gov-admin/treasurer', 'parent' => 7 ),
 
 	25 => 	array ( 'text' => 'Board Info', 'link' => '/gov-admin/boards', 'parent' => 9 ),
@@ -111,5 +111,13 @@ $menu = array(
 	86 =>	array ( 'text' => 'Special Projects', 'link' => '/gov-admin/special-projects', 'parent' => 7),
 	87 =>	array ( 'text' => 'Information Technology', 'link' => '/gov-admin/information-technology', 'parent' => 7),
 	88 =>	array (	'text' => 'County Surveyor', 'link' => '/gov-admin/surveyor', 'parent' => 7),
-	89 =>	array (	'text' => 'Maintenance', 'link' => '/gov-admin/mainentance', 'parent' => 7)
+	89 =>	array (	'text' => 'Maintenance', 'link' => '/gov-admin/mainentance', 'parent' => 7),
+
+	// Sheriff's Office Subpages
+	100 =>	array ( 'text' => 'Civil Fees', 'link' => '/gov-admin/sheriff/civil-fees', 'parent' => 23),
+	101 =>	array ( 'text' => 'Divisions', 'link' => '/gov-admin/sheriff/divisions', 'parent' => 23),
+	102 =>	array ( 'text' => 'History', 'link' => '/gov-admin/sheriff/history', 'parent' => 23),
+	103 =>	array ( 'text' => 'Safety', 'link' => '/gov-admin/sheriff/safety', 'parent' => 23),
+	104 =>	array ( 'text' => 'Search & Rescue', 'link' => '/gov-admin/sheriff/search-and-rescue', 'parent' => 23),
+	105 =>	array ( 'text' => 'Links', 'link' => '/gov-admin/sheriff/links', 'parent' => 23),
 );
