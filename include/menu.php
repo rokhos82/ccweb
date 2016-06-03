@@ -5,7 +5,7 @@ $menu = array(
 	1 => 	array ( 'text' => 'Home', 'link' => '/' ),
 	2 => 	array ( 'text' => 'Government and Administration', 'link' => '/gov-admin'),
 	3 => 	array ( 'text' => 'Community', 'link' => '/community' ),
-	4 => 	array ( 'text' => 'Announcements', 'link' => '/announcements' , 'parent' => 2  ),
+	//4 => 	array ( 'text' => 'Announcements', 'link' => '/announcements' , 'parent' => 2  ),
 
 	5 => 	array ( 'text' => 'Links', 'link' => '/links' ),
 	6 => 	array ( 'text' => 'Contact', 'link' => '/contact' ),
@@ -13,8 +13,8 @@ $menu = array(
 	7 => 	array ( 'text' => 'Departments', 'link' => '/gov-admin/departments', 'parent' => 2 ),
 	8 => 	array ( 'text' => 'Boards', 'link' => '/gov-admin/boards', 'parent' => 2 ),
 	9 => 	array ( 'text' => 'General County Business', 'link' => '/gov-admin/business', 'parent' => 2 ),
-  10 => 	array ( 'text' => 'General Business', 'link' => '/gov-admin/business/general', 'parent' => 9 ),
-	11 => 	array ( 'text' => 'Grants', 'link' => '/gov-admin/grants', 'parent' => 2 ),
+    10 => 	array ( 'text' => 'General Business', 'link' => '/gov-admin/business/general', 'parent' => 9 ),
+	//11 => 	array ( 'text' => 'Grants', 'link' => '/gov-admin/grants', 'parent' => 2 ),
 	
 
 	12 => 	array ( 'text' => 'Circuit Court', 'link' => '/gov-admin/circuit-court', 'parent' => 7 ),
@@ -33,8 +33,8 @@ $menu = array(
 
 	25 => 	array ( 'text' => 'Board Info', 'link' => '/gov-admin/boards', 'parent' => 9 ),
 	26 => 	array ( 'text' => 'Financial Info', 'link' => '/gov-admin/business/financial-info', 'parent' => 9 ),
-	27 => 	array ( 'text' => 'Government Grants, Plus +', 'link' => '/gov-admin/business/government-grants', 'parent' => 9 ),
-	28 => 	array ( 'text' => 'Notary Public', 'link' => '/gov-admin/business/notary-public', 'parent' => 9 ),
+	//27 => 	array ( 'text' => 'Government Grants, Plus +', 'link' => '/gov-admin/business/government-grants', 'parent' => 9 ),
+	//28 => 	array ( 'text' => 'Notary Public', 'link' => '/gov-admin/business/notary-public', 'parent' => 9 ),
 	29 => 	array ( 'text' => 'Public Hearings and Notices', 'link' => '/gov-admin/business/public-hearing', 'parent' => 2 ),
 
 	30 => 	array ( 'text' => 'General Board Info', 'link' => '/gov-admin/boards/general', 'parent' => 8 ),
@@ -59,7 +59,7 @@ $menu = array(
 	48 =>   array ( 'text' => 'Elections', 'link' => '/gov-admin/county-clerk/elections', 'parent' => 2 ),
 	49 => 	array ( 'text' => 'Wellness Committee ', 'link' => '/community/wellness', 'parent' => 3 ),
 	50 => 	array ( 'text' => 'codeRed', 'link' => 'https://public.coderedweb.com/CNE/492E07D4AAF0', 'parent' => 3 ),
-	51 => 	array ( 'text' => 'Converse County Cares', 'link' => '/community/cares', 'parent' => 3 ),
+	//51 => 	array ( 'text' => 'Converse County Cares', 'link' => '/community/cares', 'parent' => 3 ),
 
 	52 => 	array ( 'text' => 'CANDO', 'link' => 'http://www.candowyoming.com', 'parent' => 43 ),
 	53 => 	array ( 'text' => 'Community Builders', 'link' => 'http://www.consultcbi.com/', 'parent' => 43 ),
@@ -68,10 +68,10 @@ $menu = array(
 
   56 => 	array ( 'text' => 'Earth Day 2009', 'link' => '/community/cares/earth-day', 'parent' => 51 ),
  
-	58 => 	array ( 'text' => 'Eating', 'link' => '/community/recreation/eating', 'parent' => 46 ),
-	59 => 	array ( 'text' => 'Activities', 'link' => '/community/recreation/activities', 'parent' => 46 ),
-	60 => 	array ( 'text' => 'Lodging', 'link' => '/community/recreation/lodging', 'parent' => 46 ),
-	61 => 	array ( 'text' => 'Calendar', 'link' => '/community/recreation/calendar', 'parent' => 46 ),
+	//58 => 	array ( 'text' => 'Eating', 'link' => '/community/recreation/eating', 'parent' => 46 ),
+	//59 => 	array ( 'text' => 'Activities', 'link' => '/community/recreation/activities', 'parent' => 46 ),
+	//60 => 	array ( 'text' => 'Lodging', 'link' => '/community/recreation/lodging', 'parent' => 46 ),
+	//61 => 	array ( 'text' => 'Calendar', 'link' => '/community/recreation/calendar', 'parent' => 46 ),
 
 	62 => 	array ( 'text' => 'Converse County Rural Fire', 'link' => '/community/fire/rural', 'parent' => 47 ),
 	63 => 	array ( 'text' => 'Douglas Fire Department', 'link' => '/community/fire/douglas', 'parent' => 47 ),
@@ -80,13 +80,13 @@ $menu = array(
   65 => 	array ( 'text' => 'Employee Benefit Information', 'link' => '/gov-admin/employee-benefit', 'parent' => 2 ),
   66 => 	array ( 'text' => 'Scholarships', 'link' => '/gov-admin/scholarships', 'parent' => 2 ),
   67 => 	array ( 'text' => 'Employment Opportunities', 'link' => '/gov-admin/employment-opportunities', 'parent' => 2 ),
-  68 => 	array ( 'text' => 'Converse County Policy Manual', 'link' => '/gov-admin/policy-manual', 'parent' => 2 ),
+  //68 => 	array ( 'text' => 'Converse County Policy Manual', 'link' => '/gov-admin/policy-manual', 'parent' => 2 ),
   
   69 => 	array ( 'text' => 'WY Census 2010', 'link' => '/gov-admin/census-2010.pdf', 'parent' => 2 ),
 
 	//70 => 	array ( 'text' => 'Notices', 'link' => '/gov-admin/business/notices', 'parent' => 9 ),
 	
-	71 => 	array ( 'text' => 'Other Links', 'link' => '/community/recreation/links', 'parent' => 46 ),
+	//71 => 	array ( 'text' => 'Other Links', 'link' => '/community/recreation/links', 'parent' => 46 ),
 	72 => 	array ( 'text' => 'NEWEDC', 'link' => 'http://www.newedc.com/converse/conversecounty.html', 'parent' => 43 ),
 
 	73 => 	array ( 'text' => 'One Cent Projects', 'link' => '/onecent' ),
